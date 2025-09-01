@@ -1,12 +1,10 @@
 # Wie du den Spaß runterlädst und benutzt:
 ### 1. Lade die .zip-Datei des neusten Releases herunter.
-### 2. Entpacke die Übersetzungen in folgenden Ordner:
+### 2. Installiere die Übersetzung:
 
-`~\Steam\steamapps\common\SCP Secret Laboratory\Translations`
-
-Um den Ordner zu finden kannst du in deine Steam Bibliothek gehen, SCP:SL rechtsklicken, auf Verwalten gehen and und lokale Dateien durchsuchen auswählen.
-Dort findest du den Ordner `Translations`. (Du musst keine existierenden Übersetzungen ersetzen, das Spiel unterstützt unendlich Viele.)
-### 3. Öffne das Spiel und wähle die Übersetzung Deutsch (Besser) aus.
+Gehe in deine Steam Bibliothek, rechtsklicke SCP: Secret Laboratory, gehe auf Verwalten und wähle "lokale Dateien durchsuchen" aus.
+Dort findest du den Ordner `Translations`. (Du musst keine existierenden Übersetzungen ersetzen, da das Spiel unendlich viele unterstützt.)
+### 3. Öffne das Spiel und wähle die Übersetzung "Deutsch (Besser)" aus.
 Wenn du einen Vorgeschmack haben möchtest, gibt es einige Bilder vom ursprünglichen Ersteller auf Englisch:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
 
