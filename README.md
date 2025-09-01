@@ -5,7 +5,7 @@
 `~\Steam\steamapps\common\SCP Secret Laboratory\Translations`
 
 Um den Ordner zu finden kannst du in deine Steam Bibliothek gehen, SCP:SL rechtsklicken, auf Verwalten gehen and und lokale Dateien durchsuchen auswählen.
-Dort findest du den Ordner `Tranlations`. (Du musst keine existierenden Übersetzungen ersetzen, das Spiel unterstützt unendlich Viele.)
+Dort findest du den Ordner `Translations`. (Du musst keine existierenden Übersetzungen ersetzen, das Spiel unterstützt unendlich Viele.)
 ### 3. Öffne das Spiel und wähle die Übersetzung Deutsch (Besser) aus.
 Wenn du einen Vorgeschmack haben möchtest, gibt es einige Bilder vom ursprünglichen Ersteller auf Englisch:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
