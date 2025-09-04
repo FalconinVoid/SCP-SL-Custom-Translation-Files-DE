@@ -91,7 +91,7 @@ Umgebungsunschärfe
 Volumetrische Lichter
 Bloom
 Untertitel umschalten
-Operativer Leitfaden
+Leitfaden
 Server mieten
 <color="red>PHOTOSENSITIVITÄTSWARNUNG: VOR DEM SPIELEN LESEN!</color>\nEine kleine Menge an Leuten könnten einen epileptischen Anfall erleiden, wenn diese bestimmten Lichtmustern und flackernden Lichtern ausgesetzt sind. Das Sehen solcher Muster oder Hintergründe auf einem Computerbildschirm, oder während des Spielens, könnte einen epileptischen Anfall in diesen Menschen auslösen. Bestimmte Krankheiten könnten bisher unentdeckte epileptische Symptome auch in Personen auslösen, die keine Vorgeschichte an Anfällen oder Epilepsie haben.\nSolltest du, oder jemand in deiner Familie, eine epileptische Erkrankung haben, sprich mit deinem Arzt, bevor du spielst. Solltest du eine der folgenden Symptome beim Spielen von Videospielen erfahren -- Schwindel, Sehstörungen, Augen- oder Muskelzuckungen, Bewusstseinsverlust, Orientierungslosigkeit, unwillkürliche Bewegungen, oder Krämpfe -- höre SOFORT damit auf und kontaktiere deinen Arzt bevor du weiterspielst.
 DRÜCKE EINE TASTE, UM FORTZUFAHREN
