@@ -3,7 +3,7 @@ Global gestummt
 NICHT AUTHENTIFIZIERT
 PRIVATSSPHÄREEINSTELLUNGEN ANPASSEN
 Mikrofon durch Privatssphäreeinstellungen deaktiviert.
-Voice Chat Privatssphäreeinstellungen
+Voicechat Privatssphäreeinstellungen
 Dieses Spiel verwendet Voice-Chat. Wenn Du die Push-to-Talk-Tasten (standardmäßig „Q“ und „V“) verwendest, werden deine Mikrofoneingaben aufgezeichnet und an andere mit dem Server verbundene Benutzer übertragen.\nBestimmte Spielfunktionen können vorübergehend kurze Proben deiner Übertragungen speichern, die nach dem Trennen der Verbindung zum Server automatisch gelöscht werden.
 Alle ablehnen (Mikrofonaufnahme deaktivieren)
 Personalize settings
@@ -19,10 +19,10 @@ Zurück
 Drücke "[key]" und navigiere zu "Einstellungen" , um anzupassen.
 <size=135%><b>👥</b> Lebendige Spieler stummen -</size>
 <size=135%><b>\uf06e</b> Zuschauer stummen -</size>
-<size=135%><b>🎮</b> Lobby-Chat vor dem Spiel stummen -</size>
-Lobby-Chat vor dem Spiel
+<size=135%><b>🎮</b> Lobbychat vor dem Spiel stummen -</size>
+Lobbychat
 Chat am Ende der Runde
-Zuschauer Chat
-Lebende Spieler' Rede mit ihnen
+Zuschauerchat
+Höre lebende Spieler
 Gestummt
 Entstummt
