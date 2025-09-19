@@ -55,3 +55,5 @@ Blutfleckenlimit
 Schusslöcherlimit
 Nadeln zeigen
 Verschwommene Sicht als SCP-939
+Animationsqualität
+Passt die Animationsqualität je nach Distanz zu dir an. Eine niedrige Qualität kann die Spielleistung verbessern, jedoch könnten Animationen in der Ferne dann abgehackt aussehen.
