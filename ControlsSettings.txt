@@ -1,17 +1,17 @@
-Maus-Einstellungen
-Empfindlichkeit
-Empf.-Reduktion beim Zielen
-Raw Input
-Y-Achse umdrehen
-Beim Anvisieren von Zielen wird die Mausempfindlichkeit durch den Zoomfaktor des Zielfernrohrs geteilt. Die Ziele werden sich auf dem Bildschirm in Relation zu deiner Mausbewegung immer um dieselbe Distanz bewegen. Du kannst die Intensität der Reduktion erhöhen oder verringern, indem du diese Einstellung anpasst.
+Mauseinstellungen
+Mausgeschwindigkeit
+Visiergeschwindigkeitsmultiplikator
+Rohe Eingabe
+Y-Achse umdkehren
+Je nach Zielfernrohr wird beim Anvisieren wird deine Mausgeschwindigkeit unterschiedlich stark verlangsamt.\nMit diesem Regler kannst du den generellen Geschwindigkeitsmultiplikator einstellen.
 Halten
 Ein-/Ausschalten
-Zielen - Aktivierungsmodus
-Sprinten - Aktivierungsmodus
-Gegenstände aufheben - Aktivierungsmodus
-Schleichen - Aktivierungsmodus
-Mausblick - Aktivierungsmodus
-Rechtsklick zum Fallenlassen (Inventar)
+Zielen
+Sprinten
+Gegenstände aufheben
+Schleichen
+Mausblickmodus
+Rechtsklick um Gegenstände wegzuwerfen
 Inventar – Aktivierungsmodus
 Zonenwechsel-Tastenkürzel
 Automatischer Zuschauerwechsel
