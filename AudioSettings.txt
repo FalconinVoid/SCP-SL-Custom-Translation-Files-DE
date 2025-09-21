@@ -1,23 +1,23 @@
 Lautstärke
-Master
-Voicechat
-Soundeffekte
+Hauptlautstärke
+Sprache
+Toneffekte
 Mikrofon-Aufnahme
-Gerät
-Privatsphäre-Einstellungen
+Mikrofon
+Privatsphäre
 Ändern
 Hauptmenü
 Musik
-Interface
-Soundtrack
+Benutzeroberfläche
+Menülied
 Geräuschunterdrückung
-Reduziert ungewollte Hintergrundgeräusche, die von deinem Mikrofon aufgenommen werden. Es wird empfohlen, die Einstellung immer aktiv zu haben, da sie die Qualität deiner Stimme nicht beeinträchtigen sollte.
+Reduziert ungewollte Hintergrundgeräusche, die von deinem Mikrofon aufgenommen werden. Die Qualität deiner Stimme sollte nicht beeinträchtigt werden.\nJedoch kann sich die Qualität von Soundboards sehr verschlechtern.
 Sprachaufnahmen
 SCP-127 Sprachlautstärke
 SCP-3114 Sprachlautstärke
-Soundeffekte
-Sprachchat Halleffekte
-Steuert, wie dumpf und nachhallend der Sprachchat wird, je weiter du dich von der Quelle entfernst.
+Toneffekte
+Sprachen-Halleffekte
+Steuert, wie dumpf und nachhallend die Sprache wird, je weiter du dich von der Quelle entfernst.
 Standart
 Hoher Hall
 Niedriger Hall
