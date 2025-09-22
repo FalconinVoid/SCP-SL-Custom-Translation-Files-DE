@@ -1,24 +1,24 @@
 Server IP Anzeigemodus
-Interface-Sprache
-Änderungen werden an einigen Stellen nicht sofort wirksam.\nEin vollständiger Neustart des Spiels wird empfohlen.
-Laden...
+Sprache
+Du solltest das Spiel neustarten, da die Übersetzung erst dann vollständig übertragen ist.
+Lade...
 Untertitel
 Modus der HP-Leiste
-Genaue HP-Zahl
-Prozentsatz
-Intro-Animation der Rolle
+Anzahl
+Prozente
+Rolleninfo
 Normal
 Schnell
-Steuert die Dauer der großen Textanimation, die den Namen deiner neuen Rolle zeigt.
+Stellt die Dauer der Animation, die deine Rolleninfo zeigt um.
 Versteckt
 Ermöglicht das Ausblenden der Server IP Adresse auf einigen Elementen der Benutzeroberfläche.
-Taskleiste beim Respawnen blinken lassen
-Photosensitivitätswarnung beim Spielstart
-Bevorzugte Maßeinheit
+Inventarleiste beim Respawnen anzeigen
+Warnhinweise
+Maßeinheit
 Metrisch
-Angloamerikanisch
-Wähle bevorzugte Einheiten zwischen den metrischen Einheiten (Kilogramm, Meter, etc.) oder angloamerikanischen Einheiten (Pfund, Zoll, etc.) aus. Beachte, dass diese Funktion nur manche UI-Elemente beeinflusst und nicht von allen Spielfunktionen unterstützt wird.
-Waffengenauigkeitsanzeigemodus
+Imperial
+Metrisch (Kilogramm, Meter, etc.) oder Imperial (Pfund, Zoll, etc.). Manche Mechaniken unterstützen diese Einstellung nicht.
+Waffengenauigkeitsanzeigemodus???
 Präzise Reichweite
 Streuung
-Bestimmt, wie Waffengenauigkeit von UI-Elementen dargestellt wird. Präzise Reichweite zeigt die Distanz, bis wann die Waffe immer noch ein Ziel trifft, wobei Streuung die maximale Winkelabweichung der Zielrichtung zeigt.
+Bestimmt, wie Waffengenauigkeit von angezeigt wird. Präzise Reichweite zeigt die Distanz, bis wann die Waffe immer noch ein Ziel trifft, wobei Streuung die maximale Winkelabweichung zeigt. Wenn dir diese Erklärung geholfen hat, mach nh Pull Request auf und ändere die Erklärung, sodass es jeder andere es auch versteht.
