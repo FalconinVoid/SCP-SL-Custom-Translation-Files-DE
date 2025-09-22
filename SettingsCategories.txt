@@ -2,5 +2,5 @@ Video \uf03d
 Audio 🔉
 Steuerung 🎮
 Benutzeroberfläche \uf26c
-Andere \uf3ed
-Server Spezifisch \uf233
+Anderes \uf3ed
+Server \uf233
