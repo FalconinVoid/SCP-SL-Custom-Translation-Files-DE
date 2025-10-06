@@ -6,7 +6,7 @@ Mikrofon durch Privatssphäreeinstellungen deaktiviert.
 Voicechat Privatssphäreeinstellungen
 Dieses Spiel verwendet Voice-Chat. Wenn Du die Push-to-Talk-Tasten (standardmäßig „Q“ und „V“) verwendest, werden deine Mikrofoneingaben aufgezeichnet und an andere mit dem Server verbundene Benutzer übertragen.\nBestimmte Spielfunktionen können vorübergehend kurze Proben deiner Übertragungen speichern, die nach dem Trennen der Verbindung zum Server automatisch gelöscht werden.
 Alle ablehnen (Mikrofonaufnahme deaktivieren)
-Personalize settings
+Einstellungen anpassen
 Alle Anehmen
 Anehmen
 Ablehnen
