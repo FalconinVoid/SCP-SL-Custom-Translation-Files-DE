@@ -1,0 +1,28 @@
+name: Halloweeneinrichtung
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  replace-words:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.release.tag_name, 'halloween')
+    steps:
+      - name: Release nehmen
+        uses: actions/checkout@v5.0.0
+        with:
+          ref: ${{ github.event.release.tag_name }}
+
+      - name: Erstellen
+        run: |
+          find . -type f -name "*.txt" -exec sed -i 's/Standort/Geisterbahn/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/STANDORT/GEISTERBAHN/g' {} +
+
+      - name: Committen
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add .
+          git commit -m "Halloween"
+          git push
