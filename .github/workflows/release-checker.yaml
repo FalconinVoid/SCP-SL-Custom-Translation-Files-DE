@@ -1,0 +1,16 @@
+name: Release Checker
+run-name: Neues Release
+on:
+  release:
+    types: [published]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Benachrichtigungen an Discord senden
+        uses: tsickert/discord-webhook@v5
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          username: "Github"
+          avatar-url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          content: 🚀 **Neues Release:** [${{ github.event.release.name }}](${{ github.event.release.html_url }})
