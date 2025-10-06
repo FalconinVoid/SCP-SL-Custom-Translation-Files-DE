@@ -1,30 +1,30 @@
-User-Tracking durch Server
-Zulassen
-Verweigern (DNT)
-Wenn diese Option verweigert wird, verbietest du verifizierten Servern, deine Daten (IP-Adresse, Benutzer-ID, usw.) für Zwecke zu verwenden, die nicht mit der Sicherheit des Servers zusammenhängen. Einige serverspezifische Funktionen (wie etwa Leaderboards, Leveling-Systeme und Ähnliches) funktionieren dann nicht einwandfrei.
-Rich Presence
-Ermöglicht Plattformen (Steam und Discord), mehr Informationen über deinen aktuellen Status im Spiel anzuzeigen.
+Benutzertracking von Servern
+Erlauben
+Verbieten
+Wenn diese Option verboten wird, verbietest du verifizierten Servern, deine Daten (IP-Adresse, Benutzer-ID, usw.) für Zwecke zu verwenden, die nicht mit der Sicherheit des Servers zusammenhängen. Einige Funktionen (wie etwa Leaderboards, Leveling-Systeme und Ähnliches) könnten dann nicht mehr funktionieren.
+Discord Rich Presence
+Ermöglicht Plattformen (Steam und Discord), mehr Informationen über dein Spiel anzuzeigen (Rolle, Spieldauer, usw.).
 Steam-Lobby Sichtbarkeit
 Legt fest, wie andere Benutzer dem Server über dein Steam-Profil beitreten können.
-Voicechat Privatsphäre-Einstellungen
+Voicechat Privatsphäre
 Profil auf Spielerliste
 Ermöglicht es Spielern, dein Steam-Profil durch das Klicken auf ein Symbol in der Spielerliste aufzurufen.
-Angezeigt
-Versteckt
+Anzeigen
+Verstecken
 Nur mit Einladung
 Öffentlich
-Die Änderungen werden bei der nächsten Verbindung mit einem Server (oder beim Neustart einer Runde) übernommen.
+Die Änderungen werden bei der nächsten Runde übernommen.
 Nur Freunde
 Privatsphäre
-🌀 <color=red>SCP Spawn-Präferenzen</color>
-Spawn-Präferenzen werden verwendet, um die automatische Zuweisung von SCP-Rollen unter den Teamkameraden zu verbessern. Bitte beachte, dass dies keinen Einfluss auf deine Chancen hat, ein SCP anstelle eines Menschen zu werden.
-Abzeichen-Einstellungen
-Keine Präferenz
-Globales Abzeichen präferieren
-Lokales Abzeichen präferieren
-Globales Abzeichen - Sichtbarkeitspräferenz
-Lokales Abzeichen - Sichtbarkeitspräferenz
+🌀 <color=red>SCP Vorlieben</color>
+Diese Einstellung ändert nicht ob, sondern welches SCP du eher wirst.
+Abzeichen
+Keine Vorliebe
+Northwoodabzeichen vorziehen
+Serverabzeichen vorziehen
+Northwoodabzeichen - Sichtbarkeitsvorliebe
+Serverabzeichen - Sichtbarkeitsvorliebe
 Ich möchte kein SCP sein
 Wenn diese Option aktiviert ist, wirst du kein SCP. Falls jedoch nicht genügend Spieler ein SCP sein möchten, könntest du dennoch als eines spawnen.
-Anmelden
-Abmelden
+Ich will kein SCP sein
+Ich will SCP sein
