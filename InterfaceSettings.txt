@@ -1,6 +1,6 @@
 Server IP Anzeigemodus
 Sprache
-Du solltest das Spiel neustarten, da die Übersetzung erst dann vollständig übertragen ist.
+Starte das Spiel neu!
 Lade...
 Untertitel
 Modus der HP-Leiste
