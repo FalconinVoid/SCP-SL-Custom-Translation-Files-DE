@@ -16,7 +16,15 @@ jobs:
         run: |
           find . -type f -name "*.txt" -exec sed -i 's/Standort/Geisterbahn/g' {} +
           find . -type f -name "*.txt" -exec sed -i 's/STANDORT/GEISTERBAHN/g' {} +
-
+          find . -type f -name "*.txt" -exec sed -i 's/🔘/🎃/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/⚠/👻/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/DEKONTAMINATION BEGINNT/ERLÖSUNG/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/BEREICH/KRYPTA/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/Analyse in Bearbeitung/EMF-Leser aktiv.../g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/SYSTEME/RITUALE/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/Administrator/Dämon/g' {} +
+          find . -type f -name "*.txt" -exec sed -i 's/getötet/ins Jenseits verbannt/g' {} +
+          
       - name: Committen
         run: |
           git config --global user.name "github-actions"
