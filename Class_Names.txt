@@ -1,27 +1,27 @@
-<color=red>「SCP-173」</color>
-<color=#ff8000>Klasse-D</color>
+<color=red>「Nuss」</color>
+<color=#ff8000>KlAHHsse-D</color>
 「Zuschauer」
-<color=red>「SCP-106」</color>
-<color=#00AFFF>E-11 Spezialist</color>
-<color=red>「SCP-049」</color>
-<color=#ffff7c>Wissenschaftler</color>
-<color=#8080FF>「SCP-079」</color>
+<color=red>「Larry」</color>
+<color=#00AFFF>Mu-13 Spezialist</color>
+<color=red>「Dr. Frankenstein」</color>
+<color=#ffff7c>Alchemist</color>
+<color=#8080FF>「Computer」</color>
 <color=#559100>Chaos Rekrut</color>
-<color=red>「SCP-096」</color>
-<color=#8d1414>「SCP-049-2」</color>
-<color=#0096ff>E-11 Unteroffizier</color>
-<color=#003dca>E-11 Hauptmann</color>
-<color=#70c3ff>E-11 Soldat</color>
+<color=red>「Shy Guy」</color>
+<color=#8d1414>「Zombie」</color>
+<color=#0096ff>Mu-13 Unteroffizier</color>
+<color=#003dca>Mu-13 Hauptmann</color>
+<color=#70c3ff>Mu-13 Soldat</color>
 <color=#ff00b0>「Admin Abuse」</color>
-<color=#556278>Sicherheitspersonal</color>
-<color=red>「SCP-939-168」</color>
+<color=#556278>Geisterfänger</color>
+<color=red>「Doggo」</color>
 -
 <color=#008F1C>Chaos Infanterist</color>
 <color=#006826>Chaos Vollstrecker</color>
 <color=#0D7D35>Chaos Schwerkämpfer</color>
 Overwatch
 Filmemacher
-<color=red>「SCP-3114」</color>
+<color=red>「Skellet」</color>
 s1
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-SIGMA」</color>
