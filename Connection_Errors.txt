@@ -32,7 +32,7 @@
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wurdest von diesem Server abgeschoben.\nGrund: [reason]
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nDu wurdest von diesem Server abgeschoben.\nBann läuft ab: [date] [time]\nGrund: [reason]
 <size=80>WARTE KURZ...</size>\nVerarbeite Sicherheitsverifikation...
-<size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer
+<size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer.
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nSicherheitsverifikatkokt... oder was auch immer war zu langsam.\nProbier es ruhig noch einmal aus.
-<size=80>AUTH FEHLER</size>\nDie Matrix hat dir eine Nachricht gesendet: [message].
+<size=80>AUTH FEHLER</size>\nDas Jenseits flüstert: [message].
 <size=80>VERBINDUNG ABGEBROCHEN</size>\nServer stoppt - Und das nur wegen dir!
