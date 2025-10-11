@@ -1,16 +1,16 @@
 Eigene 📝
 Voreinstellung 📝#[index]
-<color=green>SPEICHERN ✔</color>
-<color=red>AUFSÄTZE LÖSCHEN ❌</color>
+<color=d8e802>SPEICHERN ✔</color>
+<color=e81102>AUFSÄTZE LÖSCHEN ❌</color>
 Standart
 📝 VOREINSTELLUNG 📝
 <size=250><color=red>\n\uf023</color></size>
-<size=150%><color=#0096FF>STANDORT-02</color> WAFFEN-MODIFIZIERUNG</size>\nBERÜHRE DEN BILDSCHIRM UM DIE EINRICHTUNG ZU STARTEN
-<size=250><color=#00FFFF>\n🔘</color></size>
+<size=150%><color=#e88402>STANDORT-02</color> WAFFEN-MODIFIZIERUNG</size>\nBERÜHRE DEN BILDSCHIRM UM DIE EINRICHTUNG ZU STARTEN
+<size=250><color=#e88402>\n🎃</color></size>
 <size=150%>LADE WAFFENDATENBANK\nBITTE WARTEN....</size>
-<size=250><color=#00b300>\n\uf09c</color></size>
-<size=150%><color=#0096FF>STANDORT-02</color> WAFFEN-MODIFIZIERUNG</size>\nRÜSTEN SIE IHRE WAFFE AUS
-<size=250><color=#00FFFF>\n🔘</color></size>
+<size=250><color=#e88402>\n\uf09c</color></size>
+<size=150%><color=#e88402>STANDORT-02</color> WAFFEN-MODIFIZIERUNG</size>\nRÜSTEN SIE IHRE WAFFE AUS
+<size=250><color=#e88402>\n🎃</color></size>
 <size=150%>HERUNTERFAHREN...</size>
 ZUSAMMENFASSUNG ZEIGEN
 ZUSAMMENFASSUNG SCHLIESSEN
