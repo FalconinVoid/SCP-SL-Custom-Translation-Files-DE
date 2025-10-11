@@ -4,16 +4,16 @@
 <size=85%><color=#008F1C>「INSURGENCY SIEGT」</color></size>
 「UNENTSCHIEDEN」
 <color=#EC2222>Die entkommenen Subjekte haben die Einrichtung überrannt. Notfallmaßnahmen wurden eingeleitet.</color>
-<color=#0096FF>Alle Sicherheitsbedrohungen wurden neutralisiert. Site-02 ist nun wieder sicher.</color>
+<color=#0096FF>Alle Sicherheitsbedrohungen wurden neutralisiert. Standort-02 ist nun wieder sicher.</color>
 <color=#008F1C>Einrichtung vernichtet. Einsatzkräfte stehen bereit für weitere Befehle.</color>
-Site-02 ist unter bestimmter Kontrolle, aber nicht umsonst. Der Gewinner ist unbestimmt.
-<color=#FF8E00>🏃 [summary_d_escaped] D Klasse(n) haben überlebt</color>
+Standort-02 ist unter bedingter Kontrolle, aber nicht umsonst. Niemand hat gewonnen.
+<color=#FF8E00>🏃 [summary_d_escaped] D-Klasse(n) haben überlebt</color>
 <color=#FFFF7C>👓 [summary_s_escaped] Wissenschaftler haben überlebt</color>
-<color=#EC2222>Alpha Sprengkopf - DETONIERT. Bestätigte Terminierungen: [summary_warhead_kills].</color>
-<color=#EC2222>Alpha Sprengkopf</color> - Keine Detonation. Systeme - Funktinal.
-Der Notfall dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
-<color=#EC2222>🌀 [summary_scp_terminated] wiedereingefangene SCP Subjekte</color>
+<color=#EC2222>Alpha-Sprengkopf - DETONIERT. Bestätigte Terminierungen: [summary_warhead_kills].</color>
+<color=#EC2222>Alpha-Sprengkopf</color> - Bereit. Systeme - Funktional.
+Der Vorfall dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
+<color=#EC2222>🌀 [summary_scp_terminated] terminierte SCP Subjekte</color>
 Nächste Runde in [summary_next_round_countdown] Sekunden.
 <color=#EC2222>Die SCPs haben [summary_scpfrags] Entitäten umgebracht.</color>
 <size=85%><color=#FF59CA>「FLAMINGOS SIEGEN」</color></size>
-<color=#FF59CA>Alle anderen Teams wurden ausgelöscht. Die Flamingos haben haushoch gewonnen.</color>
+<color=#FF59CA>Alle Anderen wurden ausgelöscht. Die Flamingos haben haushoch gewonnen.</color>
