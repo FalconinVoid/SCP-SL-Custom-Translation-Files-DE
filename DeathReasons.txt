@@ -1,7 +1,7 @@
 💀 Es ist <color=#ff80bc><b>[user]</b>s</color> Körper! - Er gehörte einem [class]!\n Todesgrund: [cause]
 Eingedämmt.
-Vaporisiert durch den Alpha-Sprengkopf.\n Todesursache: <color=#f5650a>Nicht evakuiert..</color>
-Herzinfarkt | Rohe Gewaltanwendung\n Todesursache: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
+Vaporisiert durch den Alpha-Kürbis.\n Todesursache: <color=#f5650a>Nicht evakuiert..</color>
+Herzkasper | Schlag ins Gesicht\n Todesursache: <color=#e52121>Dr. Frankenstein</color>/<color=#e52121>Zombies</color>
 Ungewisser Todesgrund.\n Todesursache: <color=#f5650a>Unbekannt</color>
 Schwere elektrische Verbrennungen.
 Sauerstoffmangel resultierte in Erstickungstod.
@@ -9,16 +9,16 @@ Massiver Blutverlust durch schwere Schnittwunden.
 Du bist verblutet.
 Gebrochene Beine und Füße suggerieren ein tödliches Trauma durch einen hohen Fall.
 Du bist gestürzt.
-Der Körper ist verätzt.\n Todesursache: <color=#e52121>SCP-106</color>
+Der Körper ist verätzt.\n Todesursache: <color=#e52121>Larry</color>
 Durch eine stark ätzende Substanz zerschmolzen.\n Todesursache: <color=#7cf58d>Dekontaminiation</color>
-Krankhaft gelbe Haut und ein ranziger Geruch.\n Todesursache: <color=#F5650A>Gift.</color>
+Krankhaft gelbe Haut und ein ranziger Geruch.\n Todesursache: <color=#F5650A>Gift</color>
 Das Gift hat dich getötet.\n Todesursache: Das Mischen von <color=#e52121>SCP-207</color> mit <color=#e52121>SCP-1853</color>
 Bleiche Haut und aus dem Mund austretendes Blut. \n Todesursache: <color=#e52121>SCP-207</color>
-<color=#e52121>SCP-207</color> hat dich getötet.
+<color=#e52121>SCP-207</color> hat dir den Rest gegeben.
 Nimm nicht mehr als zwei Freundchen!\n Todesursache: <color=#e52121>SCP-330</color>
 Du wurdest von einem Tesla Gate erwischt.
 Splitterwunden und Verbrennungen.\n Todesursache: <color=orange>Explosion</color>
-Du wurdest durch eine nahe Explosion getötet.\n Todesursache: <color=#5180f7>Splittergranate</color>/<color=#ff80bc>Lustig</color>
+Du wurdest durch eine nahe Explosion getötet.\n Todesursache: <color=#5180f7>Splittergranate</color>/<color=#ff80bc>Jackie</color>
 Schwere Verwundung und exzessiver Blutverlust.\n Todesursache: <color=#e52121>SCP-096</color>
 Frakturen an der Schädelbasis.\n Todesursache: <color=#e52121>SCP-173</color>
 The bite of 87\n Todesursache: <color=#e52121>SCP-939</color>
