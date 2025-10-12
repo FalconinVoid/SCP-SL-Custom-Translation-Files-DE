@@ -12,7 +12,7 @@ Mehr Informationen
 Doggo verwendet eine Mechanik, bei der die letzten wenigen Sekunden deines Sprachchats temporär aufgenommen werden. Diese können durch Doggo wieder abgespielt werden, um Ziele anzulocken.\nDie Aufnahmen werden automatisch gelöscht, wenn du den Server verlässt, Doggo stirbt, oder die Runde endet. Wenn du dieses Feature ausschaltest, werden alle deine existierenden Aufnahmen gelöscht.
 Die Wolke kann an dieser Stelle nicht eingesetzt werden.
 Die minimale Wolken-Größe wurde nicht erreicht. Halte die Taste länger gedrückt.
-Doggo ist blind und sieht durch Schall. Es nutzt Fehler aus, indem es mit lautlosen Schritten und beängstigender Geschwindigkeit Hinterhalte vorbereitet und zum Töten aus dem Nichts auftaucht.
+Doggo ist blind und sieht durch Schall. Er nutzt Fehler aus, indem er mit lautlosen Schritten und beängstigender Geschwindigkeit Hinterhalte vorbereitet und zum Töten aus dem Nichts auftaucht.
 Krallen:Klicke, um deine Klaue in einem weiten Bogen vor dir zu schwingen und deinem Opfer Fleisch und Knochen zu entreißen. Während du dich fokussierst, kannst du dich mit deinem primären Angriff auf deine Beute stürzen.
 Fokus:Wenn du deine gesamte Energie auf deine Sinne richtest, kannst du deine Beute aus größerer Entfernung sehen und anhand ihrer Aktionen erkennen, um welche Art von Beute es sich handelt.
 Amnestische Wolke:Fülle deine Lunge mit einem gefährlichen neurochemischen Gas, das in einem Radius ausgestoßen wird, der durch die Zeit bestimmt wird, in der es durch Halten der Taste vergrößert wurde. Menschen, die das Gas einatmen, können Doggo nicht mehr wahrnehmen und bestimmte Aktionen nicht mehr ausführen. Aber Vorsicht: Wenn du angreifst oder angegriffen wirst, wirst du für eine kurze Zeit sichtbar.
@@ -24,8 +24,8 @@ Imitator-Punkt platzieren
 Imitator-Punkt entfernen
 Spiele alle Geräusche von deiner aktuellen Position ab
 Imitator-Punkt platziert!
-Imitator-Punkt entfernt!
-Imitator-Punkt zerstört. Du bist außer Reichweite.
+Imitator-Punkt entfernen!
+Imitator-Punkt entfernt. Du bist außer Reichweite.
 Gestohlene Stimmen
 -
 Imitation der Umgebung
