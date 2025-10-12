@@ -79,7 +79,7 @@
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> kann alle Gegenstände, einschließlich Waffen und Munition, verändern.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> kann Funkgeräte und experimentelle Waffen aufladen.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> kann einzigartige Gegenstände erzeugen, die sonst nirgendwo zu finden sind. Experimentiere ruhig!
-<size=125%><color=#e8b923>「⭐」</color> - 😽!</color>
+「💀」 - <color=#e88402>SCP-SCP-3114 kann sich als Mensch verkleiden! Pass auf, wem du traust!</color>
 <color=#e8b923>「⭐」</color> - Deine Ausdauer ist kostbar. Heb dir etwas für Notfälle auf!
 <color=#e8b923>「⭐」</color> - Ein Aufzug ist eine schnelle Möglichkeit, den meisten <color=#EC2222>SCPs</color> zu entkommen.
 <color=#e8b923>「⭐」</color> - Adrenalin füllt sofort deine Ausdauer auf und gibt dir im Kampf einen Vorteil.
