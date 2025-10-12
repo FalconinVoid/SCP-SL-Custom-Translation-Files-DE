@@ -1,4 +1,4 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Einheit Epsilon-11</color> <b>|</b> <color=#003DCA>Designierung: [designation]</color> <b>|</b> 
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Einheit Mu-13</color> <b>|</b> <color=#003DCA>Designierung: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] SCPs</color>.
 <color=#EC2222>1 SCP</color>.
 <color=#EC2222>Vorsicht!</color>
@@ -6,20 +6,20 @@ terminiert <b>|</b> Todesgrund unbekannt.
 terminiert durch: <color=#EC2222>SCP-[scp]</color>.
 terminiert durch: <color=#f5650a>Automatische Sicherheitssystem</color>.
 terminiert durch: <color=#EC2222>Alpha Sprengkopf</color>.
-eindämmung durch: <color=#FFFF7C>Wissenschaftler</color>.
-eindämmung durch: <color=#FF8E00>Klasse-D Personal</color>.
+eindämmung durch: <color=#FFFF7C>Alchemist</color>.
+eindämmung durch: <color=#FF8E00>KlAHHsse-D Personal</color>.
 eindämmung durch: <color=#008F1C>Chaos Insurgency</color>.
 <b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
 eingedämmt <b>|</b> Eindämmungseinheit unbekannt.
 eingedämmt <b>|</b> Eindämmungseinheit: <color=#0096FF>[designation]</color>.
-lost in decontamination sequence.
+in Dekontamination gestorben.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> Generatoren aktiviert.
 <split>Alle Generatoren wurden erfolgreich aktiviert.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Überladung in 3... 2... 1...</color>
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Die Einrichtung ist wieder in Betrieb.</color>
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-15m</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-[time]m</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-1m</color>.
+「<color=#f6b140>「⚠️」</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-15m</color>.
+「<color=#f6b140>「⚠️」</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-[time]m</color>.
+「<color=#f6b140>「⚠️」</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-1m</color>.
 <color=#f6b140>「⚠️」</color><color=#EC2222>- Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-30s</color>.
 <b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Leichtverwahrungzone</color> ist abgeriegelt und bereit für die Dekontamination.
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA SPRENGKOPF SEQUENZ AKTIVIERT <b>|</b> DETONATION IN [time] SEKUNDEN</color>
@@ -28,5 +28,5 @@ lost in decontamination sequence.
 terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Einheit <b>|</b> <color=#0096FF>Designierung: [designation]</color> <b>|</b>
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Sicherheitsalarm</color> <b>|</b> <color=#066328>Chaos Insurgency</color> Aktivität festgestellt.
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Achtung <color=#5B6370>Sicherheitspersonal</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> bei Gate A gesichtet.
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Achtung <color=#5B6370>Geisterfänger</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> bei Gate A gesichtet.
 <color=#ff4545>「\uf714」</color><color=#EC2222> - NACH BEFEHL DES 05-RATES: TOTMANNSSCHALTER-PROTOKOLL AKTIVIERT.
