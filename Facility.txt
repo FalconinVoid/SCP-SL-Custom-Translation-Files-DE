@@ -22,7 +22,7 @@ TÜR WURDE VON SCP-079 VERRIEGELT
 Vollbildmodus
 Bist du dir sicher, dass du den Server verlassen möchtest?
 Grundeinstellungen. Vollständige Liste der Einstellungen befindet sich im Hauptmenü.
-WARTE AUF SPIELER
+<color=#e88402>「WARTE AUF SPIELER」</color>
 ZUSAMMENFASSUNG
 WEITER
 SPIELLAUTSTÄRKE
