@@ -37,7 +37,7 @@
 40~<color=#008F1C>\uf05b KEK-72B \uf05b</color>
 41~<color=#006826>\uf05b DD \uf05b\n<size=75%>Doppellauf Dinkelbrötchen </size></color>
 42~<color=#ff0000>🍬 "Nimm nur Zwei" 🍬</color>~<size=25%>"Süßes oder Saures?"</color>
-43~<color=#2596be>💡 Stroboblitz 👻</color>~<color=#f5f17c>💡</color> Stromausfall - 13s.\n<color=#b97cf5>🚪</color> Quarantäne - 13s.\n<color=#7DF9FF>⚡</color> Aktiviert Tesla Gate.\n<color=#8080FF>💻</color> Deaktiviert <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>Wenn ein Stromausfall oder Quarantäne herrscht wird SCP-2176 das Gegenteil tun.</size>
+43~<color=#206638>💡 Stroboblitz 👻</color>~<color=#f5f17c>💡</color> Stromausfall - 13s.\n<color=#b97cf5>🚪</color> Quarantäne - 13s.\n<color=#7DF9FF>⚡</color> Aktiviert Tesla Gate.\n<color=#8080FF>💻</color> Deaktiviert <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>Wenn ein Stromausfall oder Quarantäne herrscht wird SCP-2176 das Gegenteil tun.</size>
 44~<color=#ff0000>⚱ "Eisnebelglas"-A ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
 45~<color=#ff0000>⚱ "Eisnebelglas"-B ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
 46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Senkt ADS Ungenauigkeit - 30%.\n<color=#95D600>\uf05b</color> Rückstoßsenkung - 25%.\n<color=#95D600>\uf05b</color> Reduzierte Nachladezeit - 25%.\n<color=#95D600>💳</color> Aufheben beschleunigt - 60%.\n\n</size><size=75%>Verbessert Leistung je mehr Lebensgefahr besteht.\nNICHT MISCHEN MIT:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
