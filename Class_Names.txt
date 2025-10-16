@@ -1,5 +1,5 @@
 <color=red>「Nuss」</color>
-<color=#ff8000>KlAHHsse-D</color>
+<color=#ff8000>KLAHHsse-D</color>
 「Zuschauer」
 <color=red>「Larry」</color>
 <color=#00AFFF>Mu-13 Spezialist</color>
