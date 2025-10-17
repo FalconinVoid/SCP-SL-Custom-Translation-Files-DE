@@ -17,10 +17,10 @@ in Dekontamination gestorben.
 <split>Alle Generatoren wurden erfolgreich aktiviert.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Überladung in 3... 2... 1...</color>
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Die Einrichtung ist wieder in Betrieb.</color>
-「<color=#f6b140>「⚠️」</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-15m</color>.
-「<color=#f6b140>「⚠️」</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-[time]m</color>.
-「<color=#f6b140>「⚠️」</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-1m</color>.
-<color=#f6b140>「⚠️」</color><color=#EC2222>- Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-30s</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-15m</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-[time]m</color>.
+「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-1m</color>.
+「<color=#f6b140>⚠️</color><color=#EC2222>」 - Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-30s</color>.
 <b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Leichtverwahrungzone</color> ist abgeriegelt und bereit für die Dekontamination.
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA SPRENGKOPF SEQUENZ AKTIVIERT <b>|</b> DETONATION IN [time] SEKUNDEN</color>
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION ABGEBROCHEN <b>|</b> STARTE SYSTEME NEU...</color>
