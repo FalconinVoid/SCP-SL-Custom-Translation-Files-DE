@@ -23,3 +23,4 @@ Hoher Hall
 Niedriger Hall
 Durchsagenlautsprecher-Simulation
 Steuert, ob P.A. Systemdurchsagen (wie C.A.S.S.I.E.) durch den nächsten Lautsprecher oder global abgespielt werden.
+Verfolgungsmusik
