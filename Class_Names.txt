@@ -21,7 +21,7 @@
 <color=#0D7D35>Chaos Schwerkämpfer</color>
 Overwatch
 Filmemacher
-<color=red>「Skellet」</color>
+<color=red>「Skelett」</color>
 s1
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-SIGMA」</color>
