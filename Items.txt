@@ -15,7 +15,7 @@
 14~<color=#FFFF7C>\uf0fa Erste-Hilfe-Set \uf0fa</color>~<color=#f57caa>💗</color> Heilt 65 HP.
 15~<color=#FF8E00>🔦 Taschenlampe 🔦</color>~Es werde Licht!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=135%>Schweres Gerät mit dem Zweck SCPs auszulöschen!\n\n「Primär」: 400 DPS\n「Aufgeladen」: 1000 DPS\n<color=#767676>🏃</color> Ausdauerverbrauch - 130%.</size>
-17~<color=#ff0000>💊 "Allheilmittel" 💊</color>~<color=#f57caa>💗</color> Heilt vollständig\n<color=#f57caa>✚</color> Regeneriert 200 HP\n<color=#ffb4ff>♻️</color> Entfernt gewisse Effekte
+17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Heilt vollständig\n<color=#f57caa>✚</color> Regeneriert 200 HP\n<color=#ffb4ff>♻️</color> Entfernt gewisse Effekte
 18~<color=#ff0000>\uf72f Cola \uf72f</color>~<color=#767676>🏃</color> <size=90%>Erhöht Geschwindigkeit</size>\n<color=#767676>🏃</color> Unendliche Ausdauer\n<color=#f57caa>💔</color> Verbraucht HP\n\n<size=75%>Verbessert motorische Fähigkeiten auf schmerzhafte Weise.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b 3-X Partikelstörer \uf05b</color>
 20~<color=#0096FF>\uf05b MTF-Mu-11-SR \uf05b\n<size=75%>Standort-Rückeroberungsstandartgewehr</size></color>
@@ -36,20 +36,20 @@
 39~<color=#006826>\uf05b .44 Magnum \uf05b\n<size=75%>EINE KNARRE!</size></color>
 40~<color=#008F1C>\uf05b KEK-72B \uf05b</color>
 41~<color=#006826>\uf05b DD \uf05b\n<size=75%>Doppellauf Dinkelbrötchen </size></color>
-42~<color=#ff0000>🍬 "Nimm nur Zwei" 🍬</color>~<size=25%>"Süßes oder Saures?"</color>
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~<size=25%>"Süßes oder Saures?"</color>
 43~<color=#206638>💡 Stroboblitz 👻</color>~<color=#f5f17c>💡</color> Stromausfall - 13s.\n<color=#b97cf5>🚪</color> Quarantäne - 13s.\n<color=#7DF9FF>⚡</color> Aktiviert Tesla Gate.\n<color=#8080FF>💻</color> Deaktiviert <color=#8080FF>SCP-079</color> - 8s.\n\n<size=75%>Wenn ein Stromausfall oder Quarantäne herrscht wird SCP-2176 das Gegenteil tun.</size>
-44~<color=#ff0000>⚱ "Eisnebelglas"-A ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
-45~<color=#ff0000>⚱ "Eisnebelglas"-B ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
+44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
+45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
 46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Senkt ADS Ungenauigkeit - 30%.\n<color=#95D600>\uf05b</color> Rückstoßsenkung - 25%.\n<color=#95D600>\uf05b</color> Reduzierte Nachladezeit - 25%.\n<color=#95D600>💳</color> Aufheben beschleunigt - 60%.\n\n</size><size=75%>Verbessert Leistung je mehr Lebensgefahr besteht.\nNICHT MISCHEN MIT:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b 3-X Partikel Störer \uf05b\n<size=75%>Experimentelle Fusionswaffe</size></color>
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Dreifach Pistole - Vollautomatik</size></color>
-49~<color=#ff0000>🔊 "Edisonscher Jenseitskommunikator" 🔊</color>~👻 Sprich mit den Toten.\n\uf2f2 Kommunikationsdauer - 30s.
+49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Sprich mit den Toten.\n\uf2f2 Kommunikationsdauer - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>Ein Elektroschockstab!?</size>\n\nSchlag 「LMB」: 50 Schaden\nAufgeladen 「RMB」: 200 Schaden\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>.
-51~<color=#004B93>\uf72f Anticola \uf72f</color>~<color=#767676>🐌</color> <size=90%>Verlangsamt Geschwindigkeit</size>\n<color=#f57caa>✚</color> Regeneriert HP\n<color=#55da09>⛨</color> Gibt 75 AHP\n\n<size=75%>Kann dein Leben retten.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
+51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Verlangsamt Geschwindigkeit</size>\n<color=#f57caa>✚</color> Regeneriert HP\n<color=#55da09>⛨</color> Gibt 75 AHP\n\n<size=75%>Kann dein Leben retten.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
 52~<color=#003DCA>\uf05b MTF-Mu-11-MG \uf05b\n<size=75%>Standort-Rückeroberungsmaschinenpistole</size></color>
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Vollautomatischer Vollschaft</size></color>
 54~<color=#FF8E00>🏮 Laterne 🏮</color>~Eine klassische Öllaterne, mit dem Namen "Daniel".
-  55~<color=red>\uf729 "Ins Auge stechende Brille"-3 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Sehe andere durch Wände.</size>\n\n<b>NICHT GEWALTSAM ENTFERNEN!</b>
+  55~<color=red>\uf729 SCP-1344-3 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Sehe andere durch Wände.</size>\n\n<b>NICHT GEWALTSAM ENTFERNEN!</b>
 56~\uf2dc Schneeball \uf2dc~「Normal」: 15 Schaden\n「Aufgeladen」: 30 Schaden\nx2 Kopfschuss Schaden\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>
 57~Kohle~Du bist auf der unartigen Liste!
 58~Kohle?~Teleportiert dich zum <color=red>SCP</color>
