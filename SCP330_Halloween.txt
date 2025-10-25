@@ -1,40 +1,40 @@
 "Nimm nur zwei, Freundchen!"
 <color=purple><b>🌈</b> Re</color><color=#dca43c>g</color><color=#b40404>e</color><color=#f47fff>nb</color><color=blue>o</color><color=#2a731f>g</color><color=purple>en</color> <color=#dca43c>B</color><color=#b40404>o</color><color=blue>n</color><color=#2a731f>bo</color><color=#f47fff>n 🍬</color>
 \n\n<size=75%><color=#f47fff>Auch wenn's lecker aussieht, isses das nicht.</color></size>
-\n<size=200%><color=#b40404>Stößt eine bunte Wolke aus,\ndie positive Effekte gibt.</color></size>
+\n<size=200%><color=#FFFFFF>Stößt eine bunte Wolke aus,\ndie positive Effekte gibt.</color></size>
 <color=#dca43c>⭐ Gelbes Bonbon 🍬</color>
-Der starke Zitronengeruch zwingt dir eine verstörte Miene auf.
-Ich kann nicht aufhören!
+\n\n<size=75%><color=#dca43c>Der starke Zitronengeruch zwingt dir eine verstörte Miene auf.</color></size>
+\n<size=200%><color=#FFFFFF>Ich kann nicht aufhören!</color></size>
 <color=purple><b>🍇</b> Lila Bonbon 🍬</color>
-Es riecht wunderbar! Du kannst nicht warten, es zu essen!
-Verlangsamt den Stoffwechsel, aber vergrößert deinen Appetit!
+\n\n<size=75%><color=purple>Es riecht wunderbar! Du kannst nicht warten, es zu essen!</color></size>
+\n<size=200%><color=purple>Verlangsamt den Stoffwechsel,/naber vergrößert deinen Appetit!</color></size>
 <color=#b40404><b>🍒</b> Rotes Bonbon 🍬</color>
-Ein starker Kirschgeruch erfüllt den Raum. Er ist sogar fast etwas... <i>zu</i> stark.
-Verursacht einen grell leuchtenden Feuerstrahl aus deinem Mund, schadet jedem in deiner Nähe.
+\n<size=75%><color=#b40404>Ein starker Kirschgeruch erfüllt den Raum. Er ist sogar fast etwas... <i>zu</i> stark.</color></size>
+<color=#FFFFFF>Verursacht einen grell leuchtenden Feuerstrahl aus deinem Mund, schadet jedem in deiner Nähe.</color></size>
 <color=green>🌿 Grünes Bonbon 🍬</color>
-Ein ekelhafter Krautgeruch geht von der Süßigkeit aus. Gebt mir doch gleich nh Mandarine...
-Ein Bonbon mit unglaublicher Heilkraft.
+\n\n<size=75%><color=#2a731f>Ein ekelhafter Krautgeruch geht von der Süßigkeit aus. Gebt mir doch gleich nh Mandarine...</color></size>
+\n<size=200%><color=#FFFFFF>Ein Bonbon mit unglaublicher Heilkraft.</color></size>
 <color=#36a7d6>🍬 Blaues Bonbon 🍬</color>
-Riecht weich und süß wie ein Marshmallow.
-Verwandelt den Körper rapide in ein Marshmallow. Dabei kann nichts getragen werden.
+\n\n<size=75%><color=#36a7d6>Riecht weich und süß wie ein Marshmallow.</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt den Körper sofort in ein Marshmallow. Dabei kann nichts getragen werden.</color></size>
 <color=#f47fff>🍓 Pinkes Bonbon 🍬</color>
 \n<size=75%><color=#f47fff>Der Erdbeergeruch ist so süß wie du ihn in Erinnerung hast.</color></size>
-<color=#FFFFFF>💥 Sofortige █████████</color>
+\n<size=200%><color=#FFFFFF>💥 Sofortige █████████</color>
 <color=orange><b>🍊</b> Orangenes Bonbon 🍬</color>
-Die nach Zitrusfrüchten duftende Süßigkeit leuchtet unwiederstehlich!
-Lässt dich stark orange leuchten. Deine Gegner werden von dir erleuchtet sein!
+\n\n<size=75%><color=orange>Die nach Zitrusfrüchten duftende Süßigkeit leuchtet unwiederstehlich!</color></size>
+\n<size=200%><color=#FFFFFF>Lässt dich stark orange leuchten. Deine Gegner werden erleuchtet sein!</color></size>
 <color=#FFFFFF><b>👻</b> Weißes Bonbon 🍬</color>
-Ein süßer Duft geht von der Verpackung aus, doch wo ist die Süßigkeit...?
-Verwandelt dich für kurze Zeit in einen Geist. Du bist durchsichtig und kannst durch Türen gehen!
+\n\n<size=75%><color=#FFFFFF>Ein süßer Duft geht von der Verpackung aus, doch wo ist die Süßigkeit...?</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt dich für kurze Zeit in einen Geist.\nDu bist durchsichtig und kannst durch Türen gehen!</color></size>
 <color=#808080>🍬 Graues Bonbon 🍬</color>
-Ein leichter Geruch von Blei geht von dieser erstaunlich schweren Süßigkeit aus.
-Verwandelt dich in ein extrem schweres und schadensresistentes Stück Blei.
+\n\n<size=75%><color=#808080>Ein leichter Geruch von Blei geht von dieser erstaunlich schweren Süßigkeit aus.</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt dich in ein extrem schweres und schadensresistentes Stück Blei.</color></size>
 <color=#43464b>🍬 Schwarzes Bonbon 🍬</color>
-Der überwältigende Geruch von Nichts lässt dich würgen. Du erinnerst dich daran, es geschmeckt zu haben, aber nicht an den Geschmack.
-Verursacht einen zufälligen Effekt. Bist du ein Glückspilz?
+\n\n<size=75%><color=#43464b>Der überwältigende Geruch von Nichts lässt dich würgen.\nDu erinnerst dich daran, es geschmeckt zu haben,\naber nicht an den Geschmack.</color></size>
+\n<size=200%><color=#FFFFFF>Verursacht einen zufälligen Effekt. Bist du ein Glückspilz?</color></size>
 <color=#523a28><b>☕️</b> Braunes Bonbon 🍬</color>
-Der bekannte Geruch von Kaffe lockt dich.
-Ein äußerst wirksames Abführmittel.
+\n\n<size=75%><color=#523a28>Der bekannte Geruch von Kaffe lockt dich.</color></size>
+\n<size=200%><color=#FFFFFF>Ein äußerst wirksames Abführmittel.</color></size>
 <color=red>💀 Böses Bonbon 💀</color>
-Die süßigkeit strahlt nur vor böser Energie.
-Verwandelt Körpergewebe sofort in Marshmallow. Teil Mensch, teils Marshmallow. Vollkommen <b>BÖSE</b>.
+\n\n<size=75%><color=red>Die süßigkeit strahlt nur vor böser Energie.</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt den Körper sofort in Marshmallow. Ein <b>BÖSES</b> Wesen!</color></size>
