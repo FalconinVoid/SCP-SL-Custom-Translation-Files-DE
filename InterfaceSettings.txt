@@ -21,4 +21,4 @@ Metrisch (Kilogramm, Meter, etc.) oder Imperial (Pfund, Zoll, etc.). Manche Mech
 Waffengenauigkeitsanzeigemodus???
 Präzise Reichweite
 Streuung
-Bestimmt, wie Waffengenauigkeit von angezeigt wird. Präzise Reichweite zeigt die Distanz, bis wann die Waffe immer noch ein Ziel trifft, wobei Streuung die maximale Winkelabweichung zeigt. Wenn dir diese Erklärung geholfen hat, mach nh Pull Request auf und ändere die Erklärung, sodass es jeder andere es auch versteht.
+Bestimmt, wie Waffengenauigkeit von UI-Elementen angezeigt wird. Präzise Reichweite zeigt die Distanz, bis wann die Waffe immer noch ein Ziel trifft, wobei Streuung die maximale Winkelabweichung zeigt. Wenn dir diese Erklärung geholfen hat, mach nh Pull Request auf und ändere die Erklärung, sodass es jeder andere es auch versteht.
