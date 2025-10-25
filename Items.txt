@@ -22,7 +22,7 @@
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Sicherheitsgewehr</size></color>
 24~<color=#0D7D35>\uf05b LGC5 \uf05b\n<size=75%>Logicer</size></color>
-25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 DMG gegen <color=red>SCPs</color>.\n<color=#8079FF>\ue06c</color> 2x DMG gegen <color=#8079FF>Hume Schild</color>.\n<color=orange>🔥</color> Verbrennt Spieler\n\uf2f2 3.5s Detonationstimer.
+25~<color=#0096FF>💥 HE Grenade 💥</color>~<color=orange>💥</color> 900 Schaden gegen <color=red>SCPs</color>.\n<color=#8079FF>\ue06c</color> 2x Schaden gegen <color=#8079FF>Hume Schild</color>.\n<color=orange>🔥</color> Verbrennt Spieler\n\uf2f2 3.5s Detonationstimer.
 26~<color=#5B6370>💣 Blendgranate 💣\nModel FG02</color>~<color=#5B6370>\uf06e</color> Blendet bis zu 5s.\n\uf2f2 2.8s Detonationstimer.
 30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Kompakte Sicherheitspistole</size></color>
 31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Kein Teamschaden - 10s.\n💨 Geschwindigkeit wird bei Aufprall verdoppelt.\n⚽ 10x DMG gegen <color=red>SCPs</color>.\n<color=orange>💥</color> Explodiert nach 80s.</size>
@@ -44,7 +44,7 @@
 47~<color=#003DCA>\uf05b 3-X Partikel Störer \uf05b\n<size=75%>Experimentelle Fusionswaffe</size></color>
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Dreifach Pistole - Vollautomatik</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Sprich mit den Toten.\n\uf2f2 Kommunikationsdauer - 30s.
-50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>Ein Elektroschockstab!?</size>\n\nSchlag 「LMB」: 50 DMG\nAufgeladen 「RMB」: 200 DMG\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>.
+50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>Ein Elektroschockstab!?</size>\n\nSchlag 「LMB」: 50 Schaden\nAufgeladen 「RMB」: 200 Schaden\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>.
 51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Verlangsamt Geschwindigkeit</size>\n<color=#f57caa>✚</color> Regeneriert HP\n<color=#55da09>⛨</color> Gibt 75 AHP\n\n<size=75%>Kann dein Leben retten.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
 52~<color=#003DCA>\uf05b MTF-Ԑ-11-MG \uf05b\n<size=75%>Standort-Rückeroberungsmaschinenpistole</size></color>
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Vollautomatischer Vollschaft</size></color>
