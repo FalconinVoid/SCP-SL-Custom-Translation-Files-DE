@@ -7,7 +7,7 @@
 \n<size=200%><color=#FFFFFF>Ich kann nicht aufhören!</color></size>
 <color=purple><b>🍇</b> Lila Bonbon 🍬</color>
 \n\n<size=75%><color=purple>Es riecht wunderbar! Du kannst nicht warten, es zu essen!</color></size>
-\n<size=200%><color=#FFFFFF>Verlangsamt den Stoffwechsel,/n aber vergrößert deinen Appetit!</color></size>
+\n<size=200%><color=#FFFFFF>Verlangsamt den Stoffwechsel,\naber vergrößert deinen Appetit!</color></size>
 <color=#b40404><b>🍒</b> Rotes Bonbon 🍬</color>
 \n<size=75%><color=#b40404>Ein starker Kirschgeruch erfüllt den Raum. Er ist sogar fast etwas... <i>zu</i> stark.</color></size>
 <color=#FFFFFF>Lässt dich Feuer spucken.\n Pass auf!</color></size>
