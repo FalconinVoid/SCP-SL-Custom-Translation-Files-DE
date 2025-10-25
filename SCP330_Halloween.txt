@@ -1,6 +1,6 @@
 "Nimm nur zwei, Freundchen!"
 <color=purple><b>🌈</b> Re</color><color=#dca43c>g</color><color=#b40404>e</color><color=#f47fff>nb</color><color=blue>o</color><color=#2a731f>g</color><color=purple>en</color> <color=#dca43c>B</color><color=#b40404>o</color><color=blue>n</color><color=#2a731f>bo</color><color=#f47fff>n 🍬</color>
-Auch wenn's lecker aussieht, isses das nicht.
+\n\n\n<size=75%><color=#f47fff>Auch wenn's lecker aussieht, isses das nicht.</color></size>
 Stößt eine bunte Wolke aus, die nahen Spielern positive Effekte gibt. Sterben in der Wolke ist nicht möglich.
 <color=#dca43c>⭐ Gelbes Bonbon 🍬</color>
 Der starke Zitronengeruch zwingt dir eine verstörte Miene auf.
