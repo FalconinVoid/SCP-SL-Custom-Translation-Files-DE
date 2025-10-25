@@ -5,6 +5,6 @@
 <color=#FFFFFF><b>Waffen</b></color>
 <color=#FFFFFF><b>Granaten</b></color>
 <color=#FFFFFF><b>SCPs</b></color>
-<color=#FFFFFF><b>Experimentelle Waffen</b></color>
+<color=#FFFFFF><b>Experimentelle Waffe</b></color>
 <color=#FFFFFF><b>Munition</b></color>
 <color=#FFFFFF><b>Körperschutz</b></color>
