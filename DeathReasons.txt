@@ -33,3 +33,4 @@ Du bist erfroren.\n Todesgrund: Zu viel Zeit in <color=#e52121><s>Großmutter</s
 Der Körper weist tiefe Platzwunden und Kratzer auf.\n Todesursache: <color=#e52121>SCP-939</color>
 Der Marshmallow-Mann hat dich getötet!
 Schusswunden mit organischen Rückständen.\n Todesursache: <color=red>SCP-127</color>
+Schnittwunden mit Ameisen darin.\n Todesursache: <color=red>SCP-1509</color>
