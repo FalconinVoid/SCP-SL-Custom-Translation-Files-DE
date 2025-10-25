@@ -22,9 +22,9 @@ in Dekontamination gestorben.
 <color=#f6b140>「⚠️」</color> - <color=#EC2222>Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-1m</color>.
 <color=#f6b140>「⚠️」</color><color=#EC2222>- Leichtverwahrungzone</color>-Dekontamination in <color=#EC2222>T-30s</color>.
 <b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Leichtverwahrungzone</color> ist abgeriegelt und bereit für die Dekontamination.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA SPRENGKOPF SEQUENZ AKTIVIERT <b>|</b> DETONATION IN [time] SEKUNDEN</color>
-<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION ABGEBROCHEN <b>|</b> STARTE SYSTEME NEU...</color>
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION FORTGESETZT <b>|</b> T-[time] SEKUNDEN</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATIONSSEQUENZ AKTIVIERT <b>|</b> T-[time] SEKUNDEN</color>
+<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATIONSSEQUENZ ABGEBROCHEN <b>|</b> STARTE SYSTEME NEU...</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATIONSSEQUENZ FORTGESETZT <b>|</b> T-[time] SEKUNDEN</color>
 terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Einheit <b>|</b> 
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Sicherheitsalarm</color> <b>|</b> <color=#066328>Chaos Insurgency</color> Aktivität festgestellt.
