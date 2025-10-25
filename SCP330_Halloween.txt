@@ -7,12 +7,12 @@
 \n<size=200%><color=#FFFFFF>Ich kann nicht aufhören!</color></size>
 <color=purple><b>🍇</b> Lila Bonbon 🍬</color>
 \n\n<size=75%><color=purple>Es riecht wunderbar! Du kannst nicht warten, es zu essen!</color></size>
-\n<size=200%><color=purple>Verlangsamt den Stoffwechsel,/naber vergrößert deinen Appetit!</color></size>
+\n<size=200%><color=#FFFFFF>Verlangsamt den Stoffwechsel,/n aber vergrößert deinen Appetit!</color></size>
 <color=#b40404><b>🍒</b> Rotes Bonbon 🍬</color>
 \n<size=75%><color=#b40404>Ein starker Kirschgeruch erfüllt den Raum. Er ist sogar fast etwas... <i>zu</i> stark.</color></size>
-<color=#FFFFFF>Verursacht einen grell leuchtenden Feuerstrahl aus deinem Mund, schadet jedem in deiner Nähe.</color></size>
+<color=#FFFFFF>Lässt dich Feuer spucken.\n Pass auf!</color></size>
 <color=green>🌿 Grünes Bonbon 🍬</color>
-\n\n<size=75%><color=#2a731f>Ein ekelhafter Krautgeruch geht von der Süßigkeit aus. Gebt mir doch gleich nh Mandarine...</color></size>
+\n\n<size=75%><color=#2a731f>Gebt mir doch gleich nh Mandarine...</color></size>
 \n<size=200%><color=#FFFFFF>Ein Bonbon mit unglaublicher Heilkraft.</color></size>
 <color=#36a7d6>🍬 Blaues Bonbon 🍬</color>
 \n\n<size=75%><color=#36a7d6>Riecht weich und süß wie ein Marshmallow.</color></size>
@@ -25,12 +25,12 @@
 \n<size=200%><color=#FFFFFF>Lässt dich stark orange leuchten. Deine Gegner werden erleuchtet sein!</color></size>
 <color=#FFFFFF><b>👻</b> Weißes Bonbon 🍬</color>
 \n\n<size=75%><color=#FFFFFF>Ein süßer Duft geht von der Verpackung aus, doch wo ist die Süßigkeit...?</color></size>
-\n<size=200%><color=#FFFFFF>Verwandelt dich für kurze Zeit in einen Geist.\nDu bist durchsichtig und kannst durch Türen gehen!</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt dich für kurze Zeit in einen Geist.</color></size>
 <color=#808080>🍬 Graues Bonbon 🍬</color>
 \n\n<size=75%><color=#808080>Ein leichter Geruch von Blei geht von dieser erstaunlich schweren Süßigkeit aus.</color></size>
 \n<size=200%><color=#FFFFFF>Verwandelt dich in ein extrem schweres und schadensresistentes Stück Blei.</color></size>
-<color=#43464b>🍬 Schwarzes Bonbon 🍬</color>
-\n\n<size=75%><color=#43464b>Der überwältigende Geruch von Nichts lässt dich würgen.\nDu erinnerst dich daran, es geschmeckt zu haben,\naber nicht an den Geschmack.</color></size>
+<color=#43464b>🍬 Dunkles Bonbon 🍬</color>
+\n\n<size=75%><color=#43464b>Der überwältigende Geruch von Nichts lässt dich würgen.a</color></size>
 \n<size=200%><color=#FFFFFF>Verursacht einen zufälligen Effekt. Bist du ein Glückspilz?</color></size>
 <color=#523a28><b>☕️</b> Braunes Bonbon 🍬</color>
 \n\n<size=75%><color=#523a28>Der bekannte Geruch von Kaffe lockt dich.</color></size>
