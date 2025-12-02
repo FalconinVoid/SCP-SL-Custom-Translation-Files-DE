@@ -22,7 +22,7 @@ TÜR WURDE VON SCP-079 VERRIEGELT
 Vollbildmodus
 Bist du dir sicher, dass du den Server verlassen möchtest?
 Grundeinstellungen. Vollständige Liste der Einstellungen befindet sich im Hauptmenü.
-<color=#df168f>「<color=#da0b92>W<color=#d40095>A<color=#ce0098>R<color=#c8009b>T<color=#c1009d>E <color=#ba00a0>A<color=#b200a3>U<color=#ab00a6>F <color=#a200a9>S<color=#9900ab>P<color=#9000ae>I<color=#8601b0>E<color=#7b08b2>L<color=#700fb4>E<color=#6315b6>R<color=#5519b8>」</color>
+<color=#134303>「<color=#1c4500>W<color=#254700>A<color=#2e4900>R<color=#384b00>T<color=#414c00>E <color=#4b4d00>A<color=#554e00>U<color=#5f4e00>F <color=#694e00>S<color=#744d00>P<color=#804b00>I<color=#8b4900>E<color=#964600>L<color=#ad3c00>E<color=#c42d13>R<color=#cf2121>」</color>
 ZUSAMMENFASSUNG
 WEITER
 SPIELLAUTSTÄRKE
