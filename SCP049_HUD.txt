@@ -13,7 +13,7 @@ Drücke <b>[key]</b>, um eine weitere Wiederbelebung zu verweigern.
 <b>Diese Leiche wird bereits absorbiert.</b>
 Langsam und zerbrechlich, SCP-049 spezialisiert sich in hinterhältigen Angriffen. Und ist fähig, das Blatt des Spieles mit Horden von "geheiltem" Personal zu wenden.
 Schnell und gefährlich, SCP-049-2 Instanzen schwärmen aus, um Panik und Chaos für Ihren Meister zu verursachen, so können neue Körper dem Spiel beitreten.
-<b>\uf21e - Herzinfarkt</b>:Du streckst deine behandschuhte Hand aus, um die Herzen derjenigen zu berühren, die an der Pestilenz leiden, wodurch ihre Körperfunktionen schnell versagen. Das gibt dir die Möglichkeit, deine Heilung anzuwenden.
+<b>\uf21e - Herzinfarkt</b>:Du streckst deine behandschuhte Hand aus, um die Herzen derjenigen zu berühren, die an der Pestilenz leiden, wodurch ihre Körperfunktionen schnell versagen. Dies gibt dir die Möglichkeit, deine Heilung anzuwenden.
 <b>\uf0f1 - Der gute Sinn des Doktors</b>:Du konzentrierst dich voll und ganz auf eine verdorbene Seele. Du bewegst dich schneller und entschlossen auf sie zu, um sie von der Seuche zu befreien. Du bist in der Lage, die Entfernung eines Opfers anhand des üblen Geruchs der Seuche zu bestimmen.
 <b>\ue05c - Der Ruf des Doktors</b>:Du signalisierst deinem geheilten Personal deinen Standort. Wenn diese in deiner Nähe sind, werden ihre Körper stärker und können mehr Schaden verkraften. Ein guter Arzt sorgt sich schließlich immer um seine Patienten.
 <b>\uf621 - Spare in der Zeit, so hast du in der Not</b>:Dein medizinischer Instinkt ist nicht ohne Effizienz; Du kannst die Geheilten immer wieder auferstehen lassen, um neue Erkenntnisse zu gewinnen. Es kommt nicht alle Tage vor, dass ein Toter zweimal aufersteht.
@@ -21,3 +21,4 @@ Schnell und gefährlich, SCP-049-2 Instanzen schwärmen aus, um Panik und Chaos 
 <b>\uf6d7 - Gefräßigkeit</b>:Die Heilung ist nicht ganz ohne Vorteile. Du kannst dein Fleisch mit der Masse einer beliebigen Leiche in der Nähe regenerieren. Allerdings kannst du sie nicht mit anderen teilen, also solltest du der Erste sein, der zum Festmahl geht.
 <b>Heilen</b>
 Halte <b>[key]</b>
+<b>Zuschlagen</b>:Drücke <b>[key]</b> um einen Menschen anzugreifen.
