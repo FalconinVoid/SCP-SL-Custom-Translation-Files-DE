@@ -21,4 +21,4 @@ Schnell und gefährlich, SCP-049-2 Instanzen schwärmen aus, um Panik und Chaos 
 <b>\uf6d7 - Gefräßigkeit</b>:Die Heilung ist nicht ganz ohne Vorteile. Du kannst dein Fleisch mit der Masse einer beliebigen Leiche in der Nähe regenerieren. Allerdings kannst du sie nicht mit anderen teilen, also solltest du der Erste sein, der zum Festmahl geht.
 <b>Heilen</b>
 Halte <b>[key]</b>
-<b>Zuschlagen</b>:Drücke <b>[key]</b> um einen Menschen anzugreifen.
+<b>Zuschlagen</b>:Schlage jemanden.
