@@ -26,3 +26,5 @@ Skelett
 Pinker Flamingo
 Sigma Flamingo
 Flamingozombie
+Blauer Flamingo
+Grüner Flamingo
