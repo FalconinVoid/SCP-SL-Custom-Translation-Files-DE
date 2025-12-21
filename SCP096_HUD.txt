@@ -1,8 +1,9 @@
 SCP-096 beginnt sanftmütig, kann aber wütend werden, wenn jemand sein Gesicht sieht oder ihn verletzt. Wut verleiht ihm viele Fähigkeiten, die SCP-096 dabei helfen, die Position seiner Opfer zu verfolgen, bevor seine Wut nachlässt.
-<b>\uf5b4 - Versuche, nicht zu kommen</b>:s ist einfach zu schwer... aber an etwas festzuhalten hilft, dich zu beruhigen. Entweder um dich zu verstecken... oder um zu warten, bis jemand zu dir kommt.
+<b>\uf5b4 - Versuche, nicht zu kommen</b>:Es ist einfach zu schwer... aber an etwas festzuhalten hilft, dich zu beruhigen. Entweder um dich zu verstecken... oder um zu warten, bis jemand zu dir kommt.
 <b>\uf2a7 - Nahkampf-Attacke</b>:Zerfetze alles und jeden in deinem Weg, um zu denen zu kommen, welche dich verletzt haben. Mit deinen Angriffen kannst du Türen zerstören und Menschen verletzen.
 <b>🏃 - Sturmattacke</b>:Schneide ihnen die Flucht ab - sie haben es verdient. Du stürmst eine kurze Strecke geradeaus und zerstörst alles, was sich dir in den Weg stellt.
 Nur Wut
 Nur Besänftigt
 Halte <b>[key]</b>, um in Wut zu verfallen.
 Halte <b>[key]</b>, um die Wut zu beenden.
+<b>Skopophobie</b>:Du startest in einem fügsamen Zusatand. Ind diesem Zustand kannst du niemanden angreifen und Kannst nur langsam gehen. Wenn die ein Mensch ins Gesicht schaut, kannst du in den wütenden Zustand wechseln. Im wütenden Zustand bist du schneller und verfügst über starke Angriffe, kannst aber nur Menschen sehen, die dich angeschaut haben.
