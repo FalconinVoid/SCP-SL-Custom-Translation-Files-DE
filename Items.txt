@@ -53,7 +53,7 @@
 56~\uf2dc Schneeball \uf2dc~「Normal」: 15 Schaden\n「Aufgeladen」: 30 Schaden\nx2 Kopfschuss Schaden\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>
 57~Kohle~Du bist auf der unartigen Liste!
 58~Kohle?~Teleportiert dich zum <color=red>SCP</color>
-59~<color=#FF59CA>📼 Kassettenspieler 📼</color>~Begin audio prompt in 3..2..1..\n Erschafft die Horde aus:\n<color=#FF59CA>SCP-1507</color>
+59~<color=#FF59CA>📼 Kassettenspieler 📼</color>~Bitte reden sie nach dem Piepton...\n Erschafft die Horde aus:\n<color=#FF59CA>SCP-1507</color>
 61~<color=#6f32b5>\uf09d Außenticket \uf09d</color>~Öffnet die Ausgangstore einmal.
 62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>Ein sympatischer Zeitgenosse</size></color>
 68~<color=#ff0000>🔪 SCP-1509 🐜</color>~<size=75%>Die Klinge der Wiederbelebung</size>\n\n「LMB」: 50 Schaden\n<color=#8079FF>\ue06c</color> Gibt dir <color=#8079FF>35 HS</color>.\n<color=red>👻</color> Wiederbelebt ein totes Teammitglied.
