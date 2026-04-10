@@ -20,3 +20,21 @@
 <color=#f47fff>🍓 Pinkes Bonbon 🍬</color>
 \n<size=75%><color=#f47fff>Der Erdbeergeruch ist so süß wie du ihn in Erinnerung hast.</color></size>
 <color=#FFFFFF>💥 Sofortige █████████</color>
+<color=orange><b>🍊</b> Orangenes Bonbon 🍬</color>
+\n\n<size=75%><color=orange>Die nach Zitrusfrüchten duftende Süßigkeit leuchtet unwiederstehlich!</color></size>
+\n<size=200%><color=#FFFFFF>Lässt dich stark orange leuchten. Deine Gegner werden erleuchtet sein!</color></size>
+<color=#FFFFFF><b>👻</b> Weißes Bonbon 🍬</color>
+\n\n<size=75%><color=#FFFFFF>Ein süßer Duft geht von der Verpackung aus, doch wo ist die Süßigkeit...?</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt dich für kurze Zeit in einen Geist.</color></size>
+<color=#808080>🍬 Graues Bonbon 🍬</color>
+\n\n<size=75%><color=#808080>Ein leichter Geruch von Blei geht von dieser erstaunlich schweren Süßigkeit aus.</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt dich in ein extrem schweres und schadensresistentes Stück Blei.</color></size>
+<color=#43464b>🍬 Schwarzes Bonbon 🍬</color>
+\n\n<size=75%><color=#43464b>Der überwältigende Geruch von Nichts lässt dich würgen.a</color></size>
+\n<size=200%><color=#FFFFFF>Verursacht einen zufälligen Effekt. Bist du ein Glückspilz?</color></size>
+<color=#523a28><b>☕️</b> Braunes Bonbon 🍬</color>
+\n\n<size=75%><color=#523a28>Der bekannte Geruch von Kaffe lockt dich.</color></size>
+\n<size=200%><color=#FFFFFF>Ein äußerst wirksames Abführmittel.</color></size>
+<color=red>💀 Böses Bonbon 💀</color>
+\n\n<size=75%><color=red>Die Süßigkeit strahlt nur vor böser Energie.</color></size>
+\n<size=200%><color=#FFFFFF>Verwandelt den Körper sofort in Marshmallow. Ein <b>BÖSES</b> Wesen!</color></size>
