@@ -5,3 +5,4 @@ Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
 Zugangskarte:Du hast eine Zugangskarte, nicht die beste, aber immerhin. Verlier sie nicht!
 Standard-Ausrüstung:Du bist mit einer Waffe, einer Zugangskarte und einigen weiteren nützlichen Gegenständen ausgerüstet.
 Bewaffnet & Gefährlich:Du wurdest mit schwerer Bewaffnung, einer Zugangskarte und medizinischen Gegenständen ausgerüstet.
+Das Nötigste:Du wurdest mit der Standartsicherheitsausrüstung ausgestattet. Diese enthält eine billige Maschinenpistole, Standartzugangskarte, und eine Blendgranate. Bleib in deiner Gruppe um gemeinsam bessere Ausrüstung zu erbeuten.
