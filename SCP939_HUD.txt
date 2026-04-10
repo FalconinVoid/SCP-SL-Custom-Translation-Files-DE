@@ -45,3 +45,4 @@ Ziehen, um die Aufnahme zu schneiden
 Favorit umschalten. Als Favorit markierte Aufnahmen sind an einen Hotkey gebunden.
 Ziehen, um Aufnahmen neu zu organisieren
 Du hast die Stimme deines Ziels gestohlen!
+Sprint:Halte [key] gedrückt um zu sprinten. Deine Stamina regeneriert sich wenn du aufhörst. Teile es dir gut auf!
