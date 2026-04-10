@@ -27,3 +27,4 @@ Drücke <b>[key]</b> zum Laden.
 <size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. BESCHÄDIGT - <color=yellow>⚠</color>\n<size=80%>Fähigkeiten eingeschränkt.</size>
 <color=red>SCP-127</color> wird stärker, je tiefer eure Bindung wird.
 Nutze die $Pfeiltasten$ (oder $[up] [left] [down] [right]$) um die Schlange zu steuern.
+Sprintgeschwindigkeit
