@@ -1,90 +1,158 @@
-Northwood Geschäftsführer
-Northwood Leiter der Informationstechnik
-Northwood Betriebsleiter
-Northwood Community-Direktor
-Northwood Discord-Manager
-Northwood Assistent der Geschäftsführung
-Northwood Feedback-Manager
-Northwood Personalabteilung
-Northwood Leiter der Personalabteilung
-Northwood Leiter der Marketing-Plattform
-Northwood Mitarbeiter
-Northwood Forumsmoderation-Manager
-Northwood Systemadministrator
-Northwood Wiki-Manager
-SCP:SL Kunst-Manager
-SCP:SL Kunst-Supervisor
-SCP:SL Künstler
-SCP:SL Backend-Programmierer
-SCP:SL Backend-Leitung
-SCP:SL Entwickler
-SCP:SL Event-Gewinner
-SCP:SL Fullstack-Programmierer
-SCP:SL Game-Designer
-SCP:SL Gameplay-Programmierer
-SCP:SL Sicherheitseinhaltung-Manager
-SCP:SL Sicherheitseinhaltung-Spezialist
-SCP:SL Leitender Game-Designer
-SCP:SL Leitender Gameplay-Programmierer
-SCP:SL Level-Designer
-SCP:SL Partner
-SCP:SL Patreon-Supporter
-SCP:SL Qualitätssicherung-Leitung
-SCP:SL Sound-Designer
-SCP:SL Spieldirektor
-SCP:SL offizielle Server-Manager
-Northwood Verifikationsspezialist
-Northwood Anti-Cheat-Entwickler
-SCP:SL Qualitätssicherung-Tester
-SCP:SL Qualitätssicherung-Supervisor
-SCP:SL Twitch-Abonnent
-SCP:SL Audio-Manager
-Northwood Feedback-Koordinator
-Northwood Verifikation-Supervisor
-SCP:SL offizielle Server-Supervisor
-Northwood Feedback-Supervisor
-Northwood Verifikation-Manager
-Northwood Bot-Manager
-Northwood Übersetzungen-Manager
-SCP:SL Game-Design-Manager
-SCP:SL Animator
-Northwood Direktor der Öffentlichkeitsarbeit
-SCP:SL Gemeinschaftshelfer
-SCP:SL Stimmbildner
-SCP:SL Foundation-Investor
-Northwood Studiodirektor
-SCP:SL Assistent des Spieldirektors
-Northwood Tech Support-Supervisor
-Northwood Tech Support-Manager
-Northwood Systemadministrator-Manager
-SCP:SL Narrativer Designer
-Northwood Supervisor der Marketing-Plattform
-SCP:SL Audiotechnischer Leiter
-Northwood Übersetzungs-Koordinator
-Northwood Sicherheitsdirektor
-Northwood Sicherheitsberater
-Northwood Assistent des Sicherheitsdirektors
-Assistent des Direktors für Öffentlichkeitsarbeit
-Assistent des Direktors für Gemeinschaftsverwaltung
-Assistent des Direktors für Personalwesen
-SCP:SL Game Design-Supervisor
-SCP:SL Level Designer-Supervisor
-SCP:SL Globale Moderation-Supervisor
-Northwood Systemadministrator-Supervisor
-Northwood Webentwicklungs-Supervisor
-Northwood Webentwicklungs-Manager
-Northwood Inhaltsredaktions-Supervisor
-Northwood Inhaltsredaktions-Manager
-Northwood Patreon-Supervisor
-Northwood Patreon-Manager
-Northwood Soziale Medien-Supervisor
-Northwood Soziale Medien-Manager
-Northwood Übersetzungs-Supervisor
-Northwood Steam-Supervisor
-SCP:SL Level-Design-Manager
-SCP:SL Anticheat-Manager
-SCP:SL Anticheat-Supervisor
-Northwood Wiki-Supervisor
-SCP:SL API-Teamleiter
-
-SCP:SL API-Instandhalter
+Northwood Executive-Leiter*in
+Northwood Information-Leiter*in
+Northwood Operations-Leiter*in
+Northwood Community-Leiter*in
+Northwood Discord-Manager*in
+Northwood Executive-Assistent*in
+Northwood Feedback-Manager*in
+Northwood Human Resources
+Northwood Human Resources-Leiter*in
+Northwood Marketing-Manager*in
+Northwood Mitarbeiter*in
+Northwood Forum Moderation-Manager*in
+Northwood System-Administrator*in
+Northwood Wiki-Manager*in
+Northwood Art-Manager*in
+Northwood Art-Aufseher*in
+Northwood Gestalter*in
+Northwood Backend-Programmierer*in
+Northwood Backend Programming-Manager*in
+Northwood Entwickler*in
+SCP:SL Eventgewinner*in
+Northwood Fullstack-Programmierer*in
+Northwood Game-Designer*in
+Northwood Gameplay-Programmierer*in
+Northwood Safety and Compliance-Manager*in
+Northwood Safety and Compliance-Spezialist*in
+Northwood Game-Hauptdesigner*in
+Northwood Gameplay-Hauptprogrammierer*in
+Northwood Level-Designer*in
+SCP:SL Partner*in
+SCP:SL Patreon-Unterstützer*in
+Northwood Quality Assurance-Manager*in
+Northwood Sound-Designer*in
+Northwood Game-Leiter*in
+Northwood Official Server-Manager*in
+Northwood Verification-Spezialist*in
+Northwood Anti-Cheat-Entwickler*in
+Northwood Quality Assurance-Tester*in
+Northwood Quality Assurance-Aufseher*in
+SCP:SL Twitch-Abonnent*in
+Northwood Audio-Manager*in
+Northwood Feedback-Koordinator*in
+Northwood Verification-Aufseher*in
+Northwood Official Server-Aufseher*in
+Northwood Feedback-Aufseher*in
+Northwood Verification-Manager*in
+Northwood Bot-Manager*in
+Northwood Translation-Manager*in (LG von Falcon)
+Northwood Game Design-Manager*in
+Northwood Animator*in
+Northwood Public Relations-Leiter*in
+SCP:SL Community-Helfer*in
+SCP:SL Synchronsprecher*in
+SCP:SL Foundation-Investor*in
+Northwood Studio-Leiter*in
+Northwood Game-Assistenzleiter*in
+Northwood Tech Support-Aufseher*in
+Northwood Tech Support-Manager*in
+Northwood System Administration-Manager*in
+Northwood Narrative-Designer*in
+Northwood Marketing-Aufseher*in
+Northwood Audio Technical-Leiter*in
+Northwood Translation-Koordinator*in
+Northwood Security-Leiter*in
+Northwood Security-Berater*in
+Northwood Security-Assistenzleiter*in
+Northwood PR-Assistenzleiter*in
+Northwood CM-Assistenzleiter*in
+Northwood HR-Assistenzleiter*in
+Northwood Game Design-Aufseher*in
+Northwood Level Design-Aufseher*in
+Northwood Safety and Compliance-Aufseher*in
+Northwood System Administration-Aufseher*in
+Northwood Web Development-Aufseher*in
+Northwood Web Development-Manager*in
+Northwood Content-Aufseher*in
+Northwood Content-Manager*in
+Northwood Patreon-Aufseher*in
+Northwood Patreon-Manager*in
+Northwood Social Media-Aufseher*in
+Northwood Social Media Manager*in
+Northwood Translation-Aufseher*in
+Northwood Forum Moderation-Aufseher*in
+Northwood Level Design-Manager*in
+Northwood Anti-Cheat-Manager*in
+Northwood Anti-Cheat-Aufseher*in
+Northwood Wiki-Aufseher*in
+Northwood API Team-Leiter*in
+Northwood API-Instandhalter*in
+SCP:SL Bug Reporting-Mitwirkende(r)
+Clip Contest 2023-Gewinner*in
+Besucher*in der FanExpo Chicago 2025
+Besucher*in der HDCC 2025
+Brasilianische(r) Serveranbieter*in
+Tschechoslowakische(r) Serveranbieter*in
+Finnländische(r) Serveranbieter*in
+Französische(r) Serveranbieter*in
+Deutsche(r) Serveranbieter*in
+Ungarische(r) Serveranbieter*in
+Israelische(r) Serveranbieter*in
+Italienische(r) Serveranbieter*in
+Japanische(r) Serveranbieter*in
+Koreanische(r) Serveranbieter*in
+Polnische(r) Serveranbieter*in
+Russische(r) Serveranbieter*in
+Ukrainische(r) Serveranbieter*in
+Jugoslawische(r) Serveranbieter*in
+Northwood Discord-Aufseher*in
+Northwood Environmental-Gestalter*in
+Northwood Hard Surface-Modellierer*in
+Northwood Human Resources-Repräsentant*in
+Northwood Human Resources-Koordinator*in
+Northwood-Manager*in
+Northwood AC-HWID-Spezialist*in
+Northwood Marketing-Spezialist*in
+Northwood Partner-Vermittler*in
+Northwood-Programmierer*in
+Northwood Promotional Media-Spezialist*in
+Northwood Erfahrene(r) Game-Designer*in
+Northwood Forum-Manager*in
+Northwood Technical Game-Designer*in
+Northwood-Übersetzer*in
+Northwood UI-Gestalter*in
+Northwood VFX-Gestalter*in
+Offizieller Serveranbieter*in
+Besucher*in der PAX AUS 2024
+SCP:SL Community Tournament-Organisator*in
+SCP:SL Fanart Contest 2018-Gewinner*in
+SCP:SL Foxt PVP Tournament-Gewinner*in
+SCP:SL TinyyTonyy Parkour-Gewinner*in
+SCP:SL Sticker Competition-Gewinner*in
+SCP:SL Infernal Battles 2023-Gewinner*in
+SCP:SL Maze Madness 2023-Gewinner*in
+SCP:SL Jailbird Brawl 2023-Gewinner*in
+SCP:SL scpWyatt CTF Tournament-Gewinner*in
+SCP:SL Art Contest 2024-Gewinner*in
+SCP:SL Foundation-Investor*in (Pro Troller)
+SCP:SL Sponsor*in
+Besucher*in der TwitchCon 2019
+Northwood Bot-Ingenieur*in
+Northwood Bot Engineering-Manager*in
+Northwood Content-Editor*in
+Northwood Discord-Moderator*in
+Northwood Forum-Moderator*in
+Northwood Official Server-Moderator*in
+Northwood Erfahrene(r) Official Server-Moderator*in
+Northwood Officials Discord-Moderator*in
+Northwood Officials Discord-Aufseher*in
+Northwood Officials Discord-Manager*in
+Northwood Patreon-Repräsentant*in
+Northwood Programming Team-Leiter*in
+Northwood Programming-Aufseher*in
+Northwood Social Media-Spezialist*in
+Northwood Tech Support-Spezialist*in
+Northwood Web-Entwickler*in
+Northwood Wiki-Koordinator*in
+Northwood Wiki-Übersetzer*in
+SCP:SL Security-Mitwirkende(r)

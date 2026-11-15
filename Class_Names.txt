@@ -28,3 +28,4 @@ s1
 <color=#ff0000>「SCP-1507-049」</color>
 <color=#0096ff>MTF Flamingo</color>
 <color=#559100>Chaos Flamingo</color>
+<color=red>「SCP-953」</color>

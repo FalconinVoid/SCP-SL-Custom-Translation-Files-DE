@@ -30,3 +30,5 @@ terminiert durch: <color=blue>Blauer Marshmallow Mann</color>.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Sicherheitsalarm</color> <b>|</b> [number] <color=#066328>Chaos Insurgents</color>.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - [number] zusätzliche <color=#008F1C>Chaos Insurgents</color>. <b>|</b> Abwehrstrategie angepasst.
 <color=#ff4545>「\uf714」</color><color=#EC2222> - TOTMANNSCHALTER AKTIVIERT <b>|</b> T-90 SEKUNDEN</b>
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - Notfallgenerator aktiviert. <b>|</b> T-[time] Sekunden
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - Notfallgenerator aktiv. <b>|</b> Verbleibender Strom zu Verdeidigungsmodul umgeleitet. <b>|</b> Sende Notfallfrequenz.

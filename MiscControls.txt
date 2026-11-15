@@ -1,0 +1,4 @@
+Fortfahren
+Spiel verlassen
+Abbrechen
+Akzeptieren

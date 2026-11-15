@@ -36,3 +36,4 @@ Alle Türen entsperren
 Stromausfall
 Verriegelung
 Position markieren
+Zugriffsscanner

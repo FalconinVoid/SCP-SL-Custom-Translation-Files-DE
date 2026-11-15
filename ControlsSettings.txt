@@ -2,7 +2,7 @@ Mauseinstellungen
 Mausgeschwindigkeit
 Visiergeschwindigkeitsmultiplikator
 Rohe Eingabe
-Y-Achse umdkehren
+Y-Achse umkehren
 Je nach Zielfernrohr wird beim Anvisieren wird deine Mausgeschwindigkeit unterschiedlich stark verlangsamt.\nMit diesem Regler kannst du den generellen Geschwindigkeitsmultiplikator einstellen.
 Halten
 Ein-/Ausschalten

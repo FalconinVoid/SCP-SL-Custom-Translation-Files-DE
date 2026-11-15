@@ -26,3 +26,4 @@ Steuert, ob P.A. Systemdurchsagen (wie C.A.S.S.I.E.) durch den nächsten Lautspr
 Verfolgungsmusik
 Toneffekte stummschalten
 Toneffekte beim Zuschauen
+Radio~Kann auch im Spiel durchs Skrollen mit dem Radio in der Hand geändert werden.

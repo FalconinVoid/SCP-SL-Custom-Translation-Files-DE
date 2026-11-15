@@ -1,0 +1,23 @@
+Sieh dich mit [CameraInputKey] um.
+Bewege dich mit [MoveForward][MoveLeft][MoveBackward][MoveRight].
+Sprinte mit [SprintKey].
+Interagiere mit [InteractKey].
+Rede mit [ProximityDeviceKey] mit anderen Spielern.
+Rede mit [TeamDeviceKey] mit Spielern aus deinem Team.
+Finde mit [RoleInfoScreenKey] mehr über deine Rolle heraus.
+Greife mit [ATTACKKEY] an.\nMach die Tote mit [ReviveKey] zu deinen Dienern.
+Greife mit [ATTACKKEY] an.\nFresse mit [ConsumeKey] Leichen auf.
+Bediene Elektronik mit [079InteractKey].\nMarkiere Orte mit [079PingKey].\nÖffne den Gebäudeplan mit [079MapKey].
+Für deine Fähigkeiten hast du die Hilfsenergie der Anlage übernommen, die sich automatisch regeneriert.
+Wenn du dein Team unterstützt trainierst du. Mit genügend Training kommst du weiter in Sicherheitssystem und hast Zugriff auf mehr Hilfsstrom und Fähigkeiten.
+Lehne dich an die Wand und heul mit [StopCryKey] leise.\nDu bist kein großer Fan von deinem Gesicht, wenn es jemand betrachtet zeigst du mit [RageKey] deine Wut.
+Schwäche Menschen mit [AttackKey], bis sie in deine Dimension verschwinden.
+Du kannst durch Türen und Fenster laufen.
+Deine Fähigkeiten benötigen die Ressource "Vitalität". Sie regeneriert sich durchs schlendern oder indem du Menschen angreifst.
+Du bewegst dich solange dich niemand sieht. Das gilt auch fürs Blinzeln.\nGreife Menschen mit [AttackKey] an.\nNutze den Moment, in dem Alle blinzeln. Indem du [TeleportKey] gedrückt hältst und loslässt, bewegst du dich eine kurze Distanz.
+Du bist Blind. Du kannst Menschen nur wahrnehmen, wenn sie sich bewegen oder in deiner Nähe sind.\nHalte [AttackKey] gedrückt, um anzugreifen.\nMit [MimicryMenuKey] kannst du auf dein Geräuschemenü zugreifen und dort diverse Geräusche nachzuahmen.
+Die Amnesie-Wolke lässt dich SCP-939 in ihrem Radius sofort vergessen, bis jemand den Anderen angreift. Sie verändert außerdem deine Sicht, weshalb du ihren Effekt dadurch erkennen kannst.
+Der Dimension zu entkommen traumatisiert dich. Da SCP-106 Angst spürt, findet es dich so schneller.
+SCP-173 kann sich nicht bewegen, wenn es direkt gesehen wird, das zählt aber auch für dein Blinzeln. Halte Abstand und lass es nicht aus den Augen!
+SCP-079 kann Tesla-Gates früher auslösen. Pass auf, wenn die Kamera in der Nähe Blau leuchtet!
+Eine Berührung von SCP-049 löst bei dir einen Herzinfarkt aus. Versorge dich Medizinisch, am besten mit Adrenalin oder SCP-500. Solange an einem akuten Herzinfarkt leidest, gibt dir eine weitere Berührung den Rest.

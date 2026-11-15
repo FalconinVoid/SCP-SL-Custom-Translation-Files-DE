@@ -1,36 +1,36 @@
-💀 Es ist <color=#ff80bc><b>[user]</b>s</color> Körper! - Er gehörte einem [class]!\n Todesgrund: [cause]
+💀 Es ist <color=#ff80bc><b>[user]</b>s</color> Körper! - Er gehörte einem [class]!\nTodesgrund: [cause]
 Eingedämmt.
-Vaporisiert durch den Alpha-Sprengkopf.\n Todesursache: <color=#f5650a>Nicht evakuiert..</color>
-Herzinfarkt | Rohe Gewaltanwendung\n Todesursache: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
-Ungewisser Todesgrund.\n Todesursache: <color=#f5650a>Unbekannt</color>
+Vaporisiert durch den Alpha-Sprengkopf.\nTodesursache: <color=#f5650a>Nicht evakuiert.</color>
+Herzinfarkt | Rohe Gewaltanwendung\nTodesursache: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
+Ungewisser Todesgrund.\nTodesursache: <color=#f5650a>Unbekannt</color>
 Schwere elektrische Verbrennungen.
 Sauerstoffmangel resultierte in Erstickungstod.
 Massiver Blutverlust durch schwere Schnittwunden.
 Du bist verblutet.
 Gebrochene Beine und Füße suggerieren ein tödliches Trauma durch einen hohen Fall.
 Du bist gestürzt.
-Der Körper ist verätzt.\n Todesursache: <color=#e52121>SCP-106</color>
-Durch eine stark ätzende Substanz zerschmolzen.\n Todesursache: <color=#7cf58d>Dekontaminiation</color>
-Krankhaft gelbe Haut und ein ranziger Geruch.\n Todesursache: <color=#F5650A>Gift.</color>
-Das Gift hat dich getötet.\n Todesursache: Das Mischen von <color=#e52121>SCP-207</color> mit <color=#e52121>SCP-1853</color>
-Bleiche Haut und aus dem Mund austretendes Blut. \n Todesursache: <color=#e52121>SCP-207</color>
+Der Körper ist verätzt.\nTodesursache: <color=#e52121>SCP-106</color>
+Durch eine stark ätzende Substanz zerschmolzen.\nTodesursache: <color=#7cf58d>Dekontaminiation</color>
+Krankhaft gelbe Haut und ein ranziger Geruch.\nTodesursache: <color=#F5650A>Gift.</color>
+Das Gift hat dich getötet.\nTodesursache: Das Mischen von <color=#e52121>SCP-207</color> mit <color=#e52121>SCP-1853</color>
+Bleiche Haut und aus dem Mund austretendes Blut. \nTodesursache: <color=#e52121>SCP-207</color>
 <color=#e52121>SCP-207</color> hat dich getötet.
-Nimm nicht mehr als zwei Freundchen!\n Todesursache: <color=#e52121>SCP-330</color>
+Nimm nicht mehr als zwei Freundchen!\nTodesursache: <color=#e52121>SCP-330</color>
 Du wurdest von einem Tesla Gate erwischt.
 Splitterwunden und Verbrennungen.\n Todesursache: <color=orange>Explosion</color>
-Du wurdest durch eine nahe Explosion getötet.\n Todesursache: <color=#5180f7>Splittergranate</color>/<color=#ff80bc>Lustig</color>
-Schwere Verwundung und exzessiver Blutverlust.\n Todesursache: <color=#e52121>SCP-096</color>
+Du wurdest durch eine nahe Explosion getötet.\nTodesursache: <color=#5180f7>Splittergranate</color>/<color=#ff80bc>Lustig</color>
+Schwere Verwundung und exzessiver Blutverlust.\nTodesursache: <color=#e52121>SCP-096</color>
 Frakturen an der Schädelbasis.\n Todesursache: <color=#e52121>SCP-173</color>
 The bite of 87\n Todesursache: <color=#e52121>SCP-939</color>
-Stumpfes Trauma und kleinere Kratzer sind zu sehen.\n Todesursache: <color=#FF59CA>SCP-1507</color>
+Stumpfes Trauma und kleinere Kratzer sind zu sehen.\nTodesursache: <color=#FF59CA>SCP-1507</color>
 [ammotype] Schusswunden.
-Schwer verstümmelt und zerdrückt.\n Todesursache: <color=#e52121>SCP-018</color>
+Schwer verstümmelt und zerdrückt.\nTodesursache: <color=#e52121>SCP-018</color>
 Anzeichen eines schweren Traumas an beiden Oberschenkelknochen deuten auf einen Tod durch Kreislaufschock hin.
 Du wurdest geopfert, um SCP-106 wieder einzudämmen.
 Automatisch für Teambeschuss getötet.
-Kalte Haut und erfrorene Finger.\n Todesursache: Eine durch <color=#e52121>SCP-244</color> ausgelöste Hypothermie.
-Du bist erfroren.\n Todesgrund: Zu viel Zeit in <color=#e52121><s>Großmutter</s> SCP-244s</color> Nebel verbracht.
-Der Körper weist tiefe Platzwunden und Kratzer auf.\n Todesursache: <color=#e52121>SCP-939</color>
+Kalte Haut und erfrorene Finger.\nTodesursache: Eine durch <color=#e52121>SCP-244</color> ausgelöste Hypothermie.
+Du bist erfroren.\nTodesgrund: Zu viel Zeit in <color=#e52121><s>Großmutter</s> SCP-244s</color> Nebel verbracht.
+Der Körper weist tiefe Platzwunden und Kratzer auf.\nTodesursache: <color=#e52121>SCP-939</color>
 Der Marshmallow-Mann hat dich getötet!
-Schusswunden mit organischen Rückständen.\n Todesursache: <color=red>SCP-127</color>
-Schnittwunden mit Ameisen darin.\n Todesursache: <color=red>SCP-1509</color>
+Schusswunden mit organischen Rückständen.\nTodesursache: <color=red>SCP-127</color>
+Schnittwunden mit Ameisen darin.\nTodesursache: <color=red>SCP-1509</color>

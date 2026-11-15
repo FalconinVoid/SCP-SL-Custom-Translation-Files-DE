@@ -89,3 +89,7 @@ Versuche erneut in <color=#8080FF>[time]</color> Sekunden...
 <b>DER GROSSE BRUDER SIEHT DICH</b>\n\nDer Zugriffsscanner erkennt verbleibende Ziele, die sich über einen längeren Zeitraum im gleichen Bereich aufhalten.
 <color=yellow>⚠</color><color=red> Wähle mindestens einen Filter aus, um fortzufahren! </color><color=yellow>⚠</color>
 $<color=red>\uf023</color> <color=#8080FF>TÜRSPERRE</color>$ jetzt verfügbar - drücke $<color=#8080FF>[key]</color>$ um die Tür temporär zu sperren.
+<color=#8080FF>\uf095</color> ANRUF STARTEN
+<color=green>\uf095</color> ANRUF BEITRETEN
+<color=green>\uf095</color> ANRUF ENTGEGENNEHMEN
+<color=red>\uf095</color> ANRUF VERLASSEN

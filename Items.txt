@@ -17,7 +17,6 @@
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=135%>Schweres Gerät mit dem Zweck SCPs auszulöschen!\n\n「Primär」: 400 DPS\n「Aufgeladen」: 1000 DPS\n<color=#767676>🏃</color> Ausdauerverbrauch - 130%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Heilt vollständig\n<color=#f57caa>✚</color> Regeneriert 200 HP\n<color=#ffb4ff>♻️</color> Entfernt gewisse Effekte
 18~<color=#ff0000>\uf72f SCP-207 \uf72f</color>~<color=#767676>🏃</color> <size=90%>Erhöht Geschwindigkeit</size>\n<color=#767676>🏃</color> Unendliche Ausdauer\n<color=#f57caa>💔</color> Verbraucht HP\n\n<size=75%>Verbessert motorische Fähigkeiten auf schmerzhafte Weise.\nNICHT MISCHEN MIT:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
-47~<color=#003DCA>\uf05b 3-X Partikelstörer \uf05b</color>
 20~<color=#0096FF>\uf05b MTF-Ԑ-11-SR \uf05b\n<size=75%>Standort-Rückeroberungsstandartgewehr</size></color>
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Sicherheitsgewehr</size></color>
@@ -41,7 +40,7 @@
 44~<color=#ff0000>⚱ SCP-244-A ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
 45~<color=#ff0000>⚱ SCP-244-B ⚱</color>~<b>☁️</b> Erzeugt eiskalten Nebel.\n❄️ Nebel löst Hypothermie aus.
 46~<color=red>\uf492 SCP-1853 \uf492~<size=80%><color=#95D600>\uf05b</color> Senkt ADS Ungenauigkeit - 30%.\n<color=#95D600>\uf05b</color> Rückstoßsenkung - 25%.\n<color=#95D600>\uf05b</color> Reduzierte Nachladezeit - 25%.\n<color=#95D600>💳</color> Aufheben beschleunigt - 60%.\n\n</size><size=75%>Verbessert Leistung je mehr Lebensgefahr besteht.\nNICHT MISCHEN MIT:\n<color=red>SCP-207</color>\n<color=#004B93>O-207-914</color></size>
-47~<color=#003DCA>\uf05b 3-X Partikel Störer \uf05b\n<size=75%>Experimentelle Fusionswaffe</size></color>
+47~<color=#003DCA>\uf05b 3-X Partikel-Disruptor \uf05b\n<size=75%>Experimentelle Fusionswaffe</size></color>
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Dreifach Pistole - Vollautomatik</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Sprich mit den Toten.\n\uf2f2 Kommunikationsdauer - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>Ein Elektroschockstab!?</size>\n\nSchlag 「LMB」: 50 Schaden\nAufgeladen 「RMB」: 200 Schaden\n<color=#8079FF>\ue06c</color> Umgeht <color=#8079FF>Hume Schild</color>.

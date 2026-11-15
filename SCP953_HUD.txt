@@ -1,0 +1,27 @@
+Verhüllt
+Enthüllt
+<b>Aufreißen</b>: Attackiere deine Gegner mit <b>[key_slash]</b>. Eine blitzschnelle Attacke, die mittleren Schaden austeilt. Wenn du deine Gegner verhext, erhalten sie mehr Schaden. Wenn du sie tötest, bekommst du Hume-Schild und Essenz zurück.
+<b>Gestaltenwandlung</b>: Wähle eine neue Gestalt mit <b>[key_menu]</b> im Gestaltenmenü. In menschlicher Gestalt kannst du Gegenstände aufheben und ihre Funktion nachahmen. Die Gestalt eines SCPs gewährt dir einige seiner Fähigkeiten und Schadensresistenz. Du mit <b>[key_prox]</b> sprechen. Du kannst nur angreifen, wenn du Enthüllt bist.
+<b>Essenz</b>: Deine Fähigkeiten benötigen Essenz, die sich bis zu 50% von selbst regeneriert. Das Generieren und Limit deiner Essenz erhöhen sich durch das Infiltrieren von Menschen oder wenn du Schaden einsteckst. Du kannst dich erst bei 50% Essenz enthüllen. Wenn du keine Essenz mehr hast, wirst du wieder verhüllt.
+<b>Verhexen</b>: Wenn du 75% Essenz besitzt, kannst du <b>[key_bewitch]</b> gedrückt halten, um dich zu enthüllen und alle Gegner in der Nähe verhexen. Du kannst sie so auch durch Wände wahrnehmen. Sie hören und sehen schlechter und kassieren mehr Schaden von dir.
+<b>Fuchsjagt</b>: Wechsle in deine Vierbeinerform und verhexe alle Gegner in deiner Nähe, indem du <b>[key_foxhunt]</b> gedrückt hältst. Deine erhöhte Geschwindigkeit zahlst du mit erhöhtem Essenzverbrauch und du kannst Niemanden aufreißen. Dafür kannst du Gegner anspringen, indem du <b>[key_pounce]</b> gedrückt hältst. Während normale Gegner nur massiven Schaden einstecken, kannst du Verhexte schnappen und dich entweder in sie verwandeln, oder sie auffressen und so Hume-Schild und Essenz zurückgewinnen.
+Verhüllt als [role_name] mit dem Namen [player_nickname].
+Verhüllt als [role_name] mit deinem Namen.
+Verhüllt als [role_name].
+Diese Gestalt ist noch nicht verfügbar.
+Diese Gestalt hast du schon.
+Möchtest du deinen eigenen Namen in Verhüllter Form nutzen? Die Schnellverhüllung wird davon nicht beinflusst.
+Jetzige Gestalt
+Enthüllen
+VERHÜLLEN
+TÖTEN
+Springe mit <b>[key_attack]</b> oder <b>[key_jump]</b>.
+Du kannst diesen Gegenstand nicht aufheben.
+Enthülle dich mit <b>[key_reveal]</b>.
+Verhexe mit <b>[key_bewitch]</b> Menschen in der Nähe.
+Rede in deiner Verhüllung mit <b>[key_prox]</b>.
+Verhüllungen
+SCP-Gestalten
+menschliche Gestalten
+andere Gestalten
+Nutze den eigenen Namen
