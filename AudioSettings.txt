@@ -24,6 +24,6 @@ Niedriger Hall
 Durchsagenlautsprecher-Simulation
 Steuert, ob P.A. Systemdurchsagen (wie C.A.S.S.I.E.) durch den nächsten Lautsprecher oder global abgespielt werden.
 Verfolgungsmusik
-Toneffekte stummschalten
+<size=135%><b>\uf028</b> Toneffekte stummschalten -</size>
 Toneffekte beim Zuschauen
 Radio~Kann auch im Spiel durchs Skrollen mit dem Radio in der Hand geändert werden.

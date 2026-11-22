@@ -17,8 +17,8 @@ Erlaube Spielmechaniken, kurze Aufnahmen deiner Stimme zu verwenden. Dazu gehör
 Einstellungen annehmen
 Zurück
 Drücke "[key]" und navigiere zu "Einstellungen" , um anzupassen.
-<size=135%><b>👥</b> Lebendige Spieler stummen -</size>
-<size=135%><b>\uf06e</b> Zuschauer stummen -</size>
+<size=135%><b>👥</b> Lebendige Spieler stummschalten -</size>
+<size=135%><b>\uf06e</b> Zuschauer stummschalten -</size>
 <size=135%><b>🎮</b> Lobbychat vor dem Spiel stummen -</size>
 Lobbychat
 Chat am Ende der Runde

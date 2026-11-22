@@ -1,3 +1,9 @@
+# Archivierung Version 1:
+Da ich mittlerweile alleine am Projekt arbeite, werde ich die Übersetzungen von grundauf neu schreiben. Ohne Lambda zu forken.
+Der Character der Übersetzung wird bleiben, nur ohne forking und anderen Miterstellern.
+Ab Version 15.0 werden alle Texte mit anderen Contributors neugeschrieben. Einige Dinge der neusten Versionen werden übernommen.
+Hier findest du das neue Repo: https://github.com/FalconinVoid/SCP-SL-Clean-German-Pack
+
 # Wie du den Spaß runterlädst und benutzt:
 ### 1. Lade die .zip-Datei des neusten Releases herunter.
 ### 2. Installiere die Übersetzung:
@@ -12,10 +18,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
 # Du willst helfen?
 Ich nehme Hilfe beim Lösen von Fehlern oder beim Aktualisieren gerne an! Mach einfach eine Pull Request in den `master`-branch und ich sehe mir deine Arbeit an.
 
-# Infos für Contributors
-## Fachbegriffe
-### Einstellungen
+## Infos für Contributors
+### Fachbegriffe
 - Proximity Voice Chat: Sprache
+- Breach-Scanner: -TBD-
+- Vigor: Vitalität
 
 ### Badges
 - Advisor: Berater*in
